@@ -1,0 +1,1026 @@
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0shs869>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/Mine_G%FCng%F6r>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.1q6f_55bl>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Mine_Gungor"
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en_id/42218260"
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/people.person.date_of_birth>	"1983-01-04"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/Mine_G%25C3%25BCng%25C3%25B6r>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.name>	"Mine Güngör"@en
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Mine_G$00FCng$00F6r"
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/people.person.height_meters>	"1.73"
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/common.topic.description>	"Mine Güngör is a Turkish women's ice hockey player. Curremtly, she is a member of Istanbul Buz Korsanları team playing as goaltender. She takes part in the Turkey women's national ice hockey team. The 1.73 m tall woman at 70 kg catches right handed.\nMine Güngör was born in Mamak, Ankara on January 4, 1983. She was distance educated through the American Public University System."@en
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.agent>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://www.w3.org/2000/01/rdf-schema#label>	"Mine Güngör"@en
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/people.person.place_of_birth>	<http://rdf.freebase.com/ns/m.0cpz35>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/key/wikipedia.en>	"Mine_Gungor"
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.key>	"/dataworld/freeq/job_a7c6672a-3218-436d-9199-448dbdeb2124_var_en_wikipedia_org_wiki_Mine_G$0025C3$0025BCng$0025C3$0025B6r"
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en_title/Mine_G$00FCng$00F6r"
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/key/wikipedia.en_id>	"42218260"
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.person>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/key/wikipedia.en>	"Mine_G$00FCng$00F6r"
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/index.html?curid=42218260>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.animate>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.04kr>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/key/wikipedia.en_title>	"Mine_G$00FCng$00F6r"
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/key/dataworld.freeq>	"job_a7c6672a-3218-436d-9199-448dbdeb2124_var_en_wikipedia_org_wiki_Mine_G$0025C3$0025BCng$0025C3$0025B6r"
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.agent>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/people.person>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>
+<http://rdf.freebase.com/ns/m.0100kt2c>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.animate>
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/type.content.blob_id>	"8bfd32839ed82f8b92cb59227fa836f31ea5a755142c887161517c870529b9df"
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/type.content.length>	"6738"
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/type.content.language>	<http://rdf.freebase.com/ns/m.04l>
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.0q4m8w5>
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.05smz>
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.029jhr0>
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0hypxvk>
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>
+<http://rdf.freebase.com/ns/m.0q4m8vk>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.11b5lx191r>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/tv.tv_series_episode.series>	<http://rdf.freebase.com/ns/m.010bb3gt>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/tv.tv_series_episode.season_number>	"11"
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/tv.tv_series_episode.episode_number>	"148"
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/tv.tv_series_episode.air_date>	"2012-07-26"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.01xrzlb>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/tv.tv_series_episode>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/key/user.ovguide.tvdb_episode_id>	"4832427"
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/common.topic.description>	"In which John shares his thoughts on the S&M sensation of the publishing world, Fifty Shades of Grey. Also, the Swoodilypoopers play football, and Other John Green OFFICIALLY returns to the pitch."@en
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/type.object.key>	"/user/ovguide/tvdb_episode_id/4832427"
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/tv.tv_series_episode.season>	<http://rdf.freebase.com/ns/m.010bb3hb>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/tv.tv_series_episode>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.010bb4tx>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://el.wikipedia.org/wiki/index.html?curid=270752>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://tr.wikipedia.org/wiki/index.html?curid=1679813>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://lt.wikipedia.org/wiki/Penkiasde%25C5%25A1imt_pilk%25C5%25B3_atspalvi%25C5%25B3>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"ฟิฟตี้เชดส์ออฟเกรย์"@th
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"50_Shades"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ko_title/$ADF8$B808$C774$C758_50$AC00$C9C0_$ADF8$B9BC$C790"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.it>	"Cinquanta_sfumature_di_nero"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.es>	"50_sombras_de_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/media_common.adapted_work.adaptations>	<http://rdf.freebase.com/ns/m.0jx8jz8>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ca.wikipedia.org/wiki/index.html?curid=1080098>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"پنجاه بْعد گری رمانی اروتیک از ای. ال. جیمز نویسندهٔ بریتانیایی است. پنجاه سایهٔ خاکستری که اولین جلد از این سه‌گانه است در ۲۰ ژوئن ۲۰۱۲ منتشر شد. وقایع این رمان که در سیاتل ایالات متحدهٔ آمریکا رخ می‌دهد به بیان روابط عاطفی عمیق میان آناستازیا استیل، دختری باکره و فارغ‌التحصیل رشتهٔ ادبیات و کریستین گری، کارآفرین بانفوذ و ثروتمند می‌پردازد. این رمان به دلیل تصویر کردن صحنه‌های بی‌پردهٔ سکس و مجموعه‌ای از گرایش‌های رفتاری بی‌دی‌اس‌ام نظیر مهاربندی/نظم، سروری/بردگی و سادیستی/مازوکیستی به موفقیتی عظیم رسیده‌است.\nپنجاه سایهٔ تیره و پنجاه سایهٔ آزاد عنوان دومین و سومین جلد از این ۳ گانه است. این اثر ادبی توانست عنوان پرفروش‌ترین کتاب الکترونیک فهرست نیویورک تایمز و آمازون را در سراسر جهان از جمله بریتانیای کبیر و ایالات متحده آمریکا از آنِ خود کند. از دیگر موفقیت‌های تجاری این رمان در جهان، می‌توان به فروخته شدن ۴۰ میلیون نسخه در ۳۷ کشوری که فروش داشته و شکستن رکورد سریع‌ترین فروش کتاب با جلد کاغذی که متعلق به مجموعه داستان‌های هری پاتر بود، اشاره کرد."@fa
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.id_id>	"988968"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/user.alust.default_domain.processed_with_review_queue>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/th_title/$0E1F$0E34$0E1F$0E15$0E35$0E49$0E40$0E0A$0E14$0E2A$0E4C$0E2D$0E2D$0E1F$0E40$0E01$0E23$0E22$0E4C"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"フィフティ・シェイズ・オブ・グレイ"@ja
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ca_title/Cinquanta_ombres_d$0027en_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/el/$03A0$03B5$03BD$03AE$03BD$03C4$03B1_$03B1$03C0$03BF$03C7$03C1$03CE$03C3$03B5$03B9$03C2_$03C4$03BF$03C5_$03B3$03BA$03C1$03B9"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"格雷的五十道阴影"@zh
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"《格雷的五十道陰影》是一部由英國女性作家EL·詹姆絲所寫的情慾小說，於2011年出版。"@zh-TW
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@fi
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-tw_id>	"3000441"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-tw>	"$683C$96F7$7684$4E94$5341$9053$9634$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.th_title>	"$0E1F$0E34$0E1F$0E15$0E35$0E49$0E40$0E0A$0E14$0E2A$0E4C$0E2D$0E2D$0E1F$0E40$0E01$0E23$0E22$0E4C"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fa>	"$067E$0646$062C$0627$0647_$0648_$0633$0627$06CC$0647_$0647$0627$06CC_$062E$0627$06A9$0633$062A$0631$06CC"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-tw>	"$683C$96F7$768450$9053$9634$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topical_webpage>	<http://www.goodreads.com/book/show/10818853-fifty-shades-of-grey>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Pięćdziesiąt twarzy Greya"@pl
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cincuenta sombras de Grey"@es
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ko.wikipedia.org/wiki/%F8%08%74%58_50%00%C0_%F8%BC%90>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"50 Sắc Thái - Xám"@vi
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.pt_id>	"3714121"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.nl>	"Vijftig_tinten_grijs"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fa/$067E$0646$062C$0627$0647$0654_$0633$0627$064A$0647$0654_$062E$0627$0643$0633$062A$0631$064A"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.article>	<http://rdf.freebase.com/ns/m.0j64xz1>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.02hqc86>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Pięćdziesiąt twarzy Greya"@pl
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"ฟิฟตี้เชดส์ออฟเกรย์ เป็นหนังสือนวนิยายประเภทอีโรติก โรมานซ์ เขียนโดยอี แอล เจมส์ นักเขียนชาวอังกฤษ และเป็นหนังสือเล่มแรกจากทั้งหมดสามเล่มของชุดฟิฟตี้เชดส์ ตัวนิยายเล่าถึงการเริ่มต้นความสัมพันธ์ระหว่าง แอนัสตาเซีย สตีล บัณทิตใหม่และคริสเตียน เกรย์ นักธุรกิจหนุ่ม ตัวนิยายได้รับการพูดถึงในวงกว้าง โดยเฉพาะอย่างยิ่งในเรื่องฉากความสัมพันธ์ทางเพศที่มีส่วนประกอบของบีดีเอสเอ็ม\nฟิฟตี้เชดส์ออฟเกรย์ ขึ้นอันดับหนังสือขายดีทั้งสหรัฐอเมริกาและสหราชอาณาจักร ถึงแม้ว่าได้รับคำวิจารณ์ในด้านลบ"@th
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.sr_title>	"$041F$0435$0434$0435$0441$0435$0442_$043D$0438$0458$0430$043D$0441$0438_$2014_$0441$0438$0432$0430"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.045pgtc>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/nl/Vijftig_tinten_grijs"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ru_title/$041F$044F$0442$044C$0434$0435$0441$044F$0442_$043E$0442$0442$0435$043D$043A$043E$0432_$0441$0435$0440$043E$0433$043E"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sr/$041F$0435$0434$0435$0441$0435$0442_$043D$0438$0458$0430$043D$0441$0438_$2014_$0441$0438$0432$0430"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.sr>	"$041F$0435$0434$0435$0441$0435$0442_$043D$0438$0458$0430$043D$0441$0438_$2014_$0441$0438$0432$0430"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/tr/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"חמישים גוונים של אפור"@iw
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Padesát odstínů šedi"@cs
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-cn/$683C$96F7$768450$9053$9670$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Cinquanta sfumature di grigio"@it
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://fr.wikipedia.org/wiki/Cinquante_nuances_de_Grey>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fa/$067E$0646$062C$0627$0647_$0637$06CC$0641_$062E$0627$06A9$0633$062A$0631$06CC"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"格雷的五十道陰影"@zh
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"חמישים גוונים של אפור"@iw
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://el.wikipedia.org/wiki/%A0%B5%BD%AE%BD%C4%B1_%B1%C0%BF%C7%C1%CE%C3%B5%B9%C2_%C4%BF%C5_%B3%BA%C1%B9>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.official_website>	<http://www.eljamesauthor.com/books/fifty-shades-of-grey/>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Cincuenta sombras de Grey"@es
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/media_common.adapted_work>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ro_id/1272777"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Петдесет нюанса сиво"@bg
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-tw/$683C$96F7$768450$9053$9634$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"A szürke ötven árnyalata"@hu
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ro_id>	"1272777"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.01xryvm>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Fifty_shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/base.schemastaging.context_name.official_name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.characters>	<http://rdf.freebase.com/ns/m.0nfjvsf>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://sr.wikipedia.org/wiki/%1F%35%34%35%41%35%42_%3D%38%58%30%3D%41%38_%14_%41%38%32%30>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.written_work.next_in_series>	<http://rdf.freebase.com/ns/m.0j4dfb1>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv/Femtio_nyanser_av_frihet"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/th_id/549329"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/tr_title/Grinin_Elli_Tonu"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://uk.wikipedia.org/wiki/%25D0%259F'%25D1%258F%25D1%2582%25D0%25B4%25D0%25B5%25D1%2581%25D1%258F%25D1%2582_%25D0%25B2%25D1%2596%25D0%25B4%25D1%2582%25D1%2596%25D0%25BD%25D0%25BA%25D1%2596%25D0%25B2_%25D1%2581%25D1%2596%25D1%2580%25D0%25BE%25D0%25B3%25D0%25BE>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://sr.wikipedia.org/wiki/index.html?curid=632265>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/de/50_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.lt>	"Penkiasde$0161imt_pilk$0173_atspalvi$0173"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.nl_title>	"Vijftig_tinten_grijs"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ru.wikipedia.org/wiki/%25D0%259F%25D1%258F%25D1%2582%25D1%258C%25D0%25B4%25D0%25B5%25D1%2581%25D1%258F%25D1%2582_%25D0%25BE%25D1%2582%25D1%2582%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25BE%25D0%25B2_%25D1%2581%25D0%25B5%25D1%2580%25D0%25BE%25D0%25B3%25D0%25BE>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/de/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-cn/$683C$96F7$7684$4E94$5341$9053$9634$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey adalah sebuah novel erotis tahun 2011 karangan penulis Inggris, E. L. James. Novel ini sebagian besar berlatar tempat di Seattle dan merupakan seri pertama dari trilogi Fifty Shades yang mengisahkan tentang hubungan percintaan antara seorang mahasiswi dan pekerja paruh-waktu bernama Anastasia Steele dengan seorang pebisnis muda bernama Christian Grey.\nSeri kedua dan ketiga dari trilogi ini berjudul Fifty Shades Darker dan Fifty Shades Freed. Sejak awal perilisannya, Fifty Shades of Grey telah menduduki puncak teratas penjualan buku fiksi terlaris di seluruh dunia, termasuk di Inggris dan Amerika Serikat. Novel ini tercatat telah terjual lebih dari 40 juta kopi di seluruh dunia, dan hak penerbitannya juga telah terjual di 37 negara. Penjualan Fifty Shades of Grey berhasil memecahkan rekor sebagai novel yang paling cepat terjual sepanjang masa, mengalahkan rekor sebelumnya yang dipegang oleh seri-seri Harry Potter."@id
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades er en erotisk bokserie av E. L. James. Trilogien er satt i byen Seattle og følger forholdet mellom hovedpersonen Anastasia Steele og en ung forretningsmann, Christian Grey. Serien har vekket stor oppmerksomhet på grunn av sine eksplisitte erotiske scener med elementer av BDSM. The New York Times har registrert over hundre millioner solgte eksemplarer, og rettighetene har blitt solgt til 37 land. I Norge har Gyldendal kjøpt rettighetene, og bokserien ble utgitt høsten 2012."@no
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.editions>	<http://rdf.freebase.com/ns/m.010n4899>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.no_title>	"Fifty_shades"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://es.wikipedia.org/wiki/index.html?curid=5336162>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-tw/$4E94$5341$5EA6$7070"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"خمسون درجة من الرمادي هي رواية رومانسية"@ar
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.et>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.de_title>	"Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.no_id>	"1046112"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Vijftig tinten grijs"@nl
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fi>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Pięćdziesiąt twarzy Greya – angielska powieść erotyczna autorki E.L. James. Akcja rozgrywa się głównie w Seattle. Książka opisuje relacje i stosunki seksualne między absolwentką uniwersytetu Anastasią Steele a młodym biznesmenem Christianem Greyem, w tym stosunki sadomasochistyczne. Książka jest skierowana do kobiet. Powstała na skutek fascynacji autorki sagą Zmierzch, pierwotnie jako fan fiction. Powieść odniosła ogromny sukces: 1 sierpnia 2012 księgarnia internetowa Amazon.com ogłosiła, że w Wielkiej Brytanii Pięćdziesiąt twarzy Greya sprzedało się w większej liczbie egzemplarzy niż ostatnia książka z serii Harry Potter.\nKsiążka doczekała się kontynuacji, dotychczas w serii wydano trzy książki:\nPięćdziesiąt twarzy Greya – polska premiera 5 września 2012\nCiemniejsza strona Greya – polska premiera 7 listopada 2012\nNowe oblicze Greya – polska premiera 9 stycznia 2013\nSeria została przetłumaczona na wiele języków. W Polsce wydana przez wydawnictwo Sonia Draga. Wytwórnia Universal Studios potwierdziła plany produkcji filmu \"Pięćdziesiąt twarzy Greya\" na podstawie książki. Reżyserią zajmie się Sam Taylor-Johnson. Premiera ekranizacji zapowiedziana jest na 13 lutego 2015."@pl
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/it/Cinquanta_sfumature_di_grigio"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://de.wikipedia.org/wiki/Shades_of_Grey>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/50SOG"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/index.html?curid=35166850>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://sr.wikipedia.org/wiki/%25D0%259F%25D0%25B5%25D0%25B4%25D0%25B5%25D1%2581%25D0%25B5%25D1%2582_%25D0%25BD%25D0%25B8%25D1%2598%25D0%25B0%25D0%25BD%25D1%2581%25D0%25B8_%25E2%2580%2594_%25D1%2581%25D0%25B8%25D0%25B2%25D0%25B0>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://sv.wikipedia.org/wiki/index.html?curid=1692279>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.04s_yv_>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"《格雷的五十道阴影》是一部由英国女性作家EL·詹姆丝所写的情欲小说，于2011年出版。"@zh
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://es.wikipedia.org/wiki/Cincuenta_sombras_de_Grey>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fa/$067E$0646$062C$0627$0647_$0648_$0633$0627$064A$0647_$0647$0627$064A_$062E$0627$0643$0633$062A$0631$064A"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/lt_id/444048"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@pt
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Padesát odstínů šedi"@cs
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey on brittiläisen E. L. Jamesin vuonna 2011 julkaistu eroottinen romaani. Sen tarina kertoo nuoren toimittajan ja liikemiehen suhteesta. Kirja sisältää kuvauksia muun muassa sadomasokismista. Romaani on käänetty yli 50 kielelle ja sitä on myyty yli 70 miljoonaa kappaletta maailmanlaajuisesti. Romaani on Britannian kaikkien aikojen myydyin, sitä on myyty painettuna ja sähkökirjoina yhteensä 5,3 miljoonaa kappaletta. Romaanille on ilmestynyt myös kaksi jatko-osaa, joita on molempia myyty Britanniassa yli kolme miljoonaa kappaletta.\nRomaaniin perustuva samanniminen elokuva saa ensi-iltansa Yhdysvalloissa 13. helmikuuta 2015."@fi
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"Fifty_shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.es>	"Cincuenta_sombras_de_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fr_id>	"6420293"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.it>	"50_sfumature_di_grigio"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fa>	"$067E$0646$062C$0627$0647_$0648_$0633$0627$06CC$0647$200C$0647$0627$06CC_$062E$0627$06A9$0633$062A$0631$06CC"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.sv>	"Femtio_nyanser_av_frihet"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv/Femtio_nyanser"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://pl.wikipedia.org/wiki/Pi%19%07dziesi%05t_twarzy_Greya>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.sv>	"Femtio_nyanser_av_m$00F6rker"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.pl_id>	"2745505"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.written_work.date_of_first_publication>	"2011-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.editions>	<http://rdf.freebase.com/ns/m.0j49lw7>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://et.wikipedia.org/wiki/Viisk%25C3%25BCmmend_halli_varjundit>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fa>	"$067E$0646$062C$0627$0647$0654_$0633$0627$064A$0647$0654_$062E$0627$0643$0633$062A$0631$064A"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.it_title>	"Cinquanta_sfumature_di_grigio"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.de>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Cinquanta ombres d'en Grey"@ca
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ko_id/875549"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.lt_title>	"Penkiasde$0161imt_pilk$0173_atspalvi$0173"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/et_id/312960"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/de/Fifty_Shades_Freed"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://zh.wikipedia.org/zh-tw/index.html?curid=3000441>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/Fifty_Shades_of_Grey>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty shades"@no
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.written_work.author>	<http://rdf.freebase.com/ns/m.0j49kcv>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://id.wikipedia.org/wiki/Fifty_Shades_of_Grey>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Fifty_Shades_Of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en_id/35166850"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Greja piecdesmit nokrāsas"@lv
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Pedeset nijansi sive"@hr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/et_title/Viisk$00FCmmend_halli_varjundit"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fa/$067E$0646$062C$0627$0647$0654_$0633$0627$06CC$0647$0654_$062E$0627$06A9$0633$062A$0631$06CC"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Päťdesiat odtieňov sivej"@sk
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://zh.wikipedia.org/zh-cn/%3C%F7%84%94%41%53%70%71>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.characters>	<http://rdf.freebase.com/ns/m.0v1jt0c>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://he.wikipedia.org/wiki/%25D7%2597%25D7%259E%25D7%2599%25D7%25A9%25D7%2599%25D7%259D_%25D7%2592%25D7%2595%25D7%2595%25D7%25A0%25D7%2599%25D7%259D_%25D7%25A9%25D7%259C_%25D7%2590%25D7%25A4%25D7%2595%25D7%25A8>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en_title/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Cincizeci de umbre ale lui Grey este un roman de dragoste și erotism apărut în 2011, scris de E. L. James. Este primul volum din trilogia Cincizeci de umbre care prezintă povestea dintre tânăra absolventă Anastasia Steel și tânărul om de afaceri Christian Grey.\nEste remarcat pentru scenele erotice explicite în combinație cu elementele practicii sexuale care implică robie/disciplină, dominare/supunere și sadism masochism. Inițial autoarea a publicat-o ca o carte electronică, dar succesul cărții în format electronic a determinat tipărirea ei, iar vânzările au depășit și cele mai optimiste așteptări. Al doilea și al treilea volum din serie, Cincizeci de umbre întunecate și Cincizeci de umbre descătușate au fost publicate în 2012.\nCincizeci de umbre ale lui Grey a fost în topul vânzărilor peste tot în lume, inclusiv în Regatul Unit și Statele Unite. Seria a fost vândută în peste 100 de milioane de copii în întreaga lume, tradusă în 52 de limbi și a atins recordul de cel mai rapid volum vândut din toate timpurile. Criticile la adresa cărții au fost împărțite, în unele dintre acestea calitatea prozei fiind considerată slabă."@ro
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"格雷的五十道陰影"@zh-Hant
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/de/Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"„Петдесет нюанса сиво“ е еротичен роман, първи от поредицата „Петдесет нюанса“ с автор Е. Л. Джеймс."@bg
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fa/$067E$0646$062C$0627$0647_$0648_$0633$0627$06CC$0647_$0647$0627$06CC_$062E$0627$06A9$0633$062A$0631$06CC"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.characters>	<http://rdf.freebase.com/ns/m.0nfjwvg>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fi_title/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/uk_id/1464075"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Femtio nyanser"@sv
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://pt.wikipedia.org/wiki/Fifty_Shades_of_Grey>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-cn_title/$683C$96F7$7684$4E94$5341$9053$9670$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Shades of Grey"@de
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/nl/50_tinten_grijs"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://fi.wikipedia.org/wiki/index.html?curid=1051449>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-tw_id/3000441"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.editions>	<http://rdf.freebase.com/ns/m.0j49lwq>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en_id>	"35166850"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.it>	"Cinquanta_sfumature_di_rosso"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.characters>	<http://rdf.freebase.com/ns/m.01012139>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.el_id>	"270752"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.genre>	<http://rdf.freebase.com/ns/m.023kjl>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ro_title/Cincizeci_de_umbre_ale_lui_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"\"Viiskümmend halli varjundit\" on Suurbritannia kirjaniku E. L. Jamesi erootiline menuromaan. See kuulub triloogiasse, mille ülejäänud osad on \"Fifty Shades Darker\" ja \"Fifty Shades Freed\".\nRomaani tegevus toimub suuresti Seattle'is. See jälgib hiljuti kolledži lõpetanud Anastasia Steele'i ja noore ärimagnaadi Christian Grey suhte arengut. Romaan on pälvinud tähelepanu otsekoheste erootiliste stseenide poolest, milles leidub mitmesuguste seksuaalpraktikate elemente.\n\"Viiskümmend halli varjundit\" on jõudnud menuraamatute edetabeleisse kogu maailmas, sealhulgas USA-s ja Suurbritannias. Kokku on sarja müüdud eri riikides üle 65 miljoni eksemplari, raamatu kirjastamisõigused on müüdud 37 riiki ja selle käes on kõigi aegade kiireimini müüva pehmekaanelise raamatu rekord - müügitulemused ületavad isegi \"Harry Potteri\" seeriat. Kriitikute reaktsioonid romaanile ei ole üksmeelsed."@et
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/lt_title/Penkiasde$0161imt_pilk$0173_atspalvi$0173"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ru/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-tw/$683C$96F7$7684$4E94$5341$9053$9670$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://et.wikipedia.org/wiki/Viisk%FCmmend_halli_varjundit>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv/50_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Cinquanta ombres d'en Grey, és una novel·la eròtica publicada el 2011 per l'autora britànica E. L. James. Narrada en gran mesura a Seattle, és el primer lliurament d'una trilogia que descriu la relació entre una recent graduada de la universitat, Anastasia Steele, i un jove magnat de negocis, Christian Grey. Es destaca per les seves escenes explícitament eròtiques, amb elements de les pràctiques sexuals que involucren: bondatge/disciplina, dominació/submissió, sadisme/masoquisme. El segon i tercer llibre es titulen: Cinquanta ombres més fosques i Cinquanta ombres alliberades, respectivament. Cinquanta ombres de Grey ha encapçalat les llistes de best seller a tot el món, incloent-hi el Regne Unit i els Estats Units. La sèrie ha venut 100 milions d'exemplars a tot el món, i els drets del llibre han estat venuts en 37 països, establint el rècord com l'edició de butxaca de vendes més ràpida de tots els temps, superant a la sèrie de Harry Potter."@ca
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/id/50_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Cinquanta sfumature di grigio è un romanzo scritto nel 2011 dalla scrittrice inglese E. L. James. Si tratta del primo di una trilogia di romanzi che prosegue con Cinquanta sfumature di nero e Cinquanta sfumature di rosso.\nIl romanzo, caratterizzato dalla descrizione di scene di esplicito erotismo e da elementi di pratiche sessuali BDSM, ha in breve tempo raggiunto una vasta popolarità e un grande successo di vendite negli Stati Uniti e in Gran Bretagna. L'intera serie ha venduto oltre 100 milioni di copie in tutto il mondo e i diritti sono stati venduti in 37 paesi.\nIl 2 settembre 2013 l'autrice E.L.James annuncia sul suo profilo Twitter di aver scelto Charlie Hunnam e Dakota Johnson per interpretare Christian Grey e Anastasia Steele nella versione cinematografica di Cinquanta Sfumature di Grigio. Il 24 ottobre 2013 viene annunciato che Jamie Dornan interpreterà Christian Grey nella trasposizione cinematografica del libro, sostituendo Charlie Hunnam ritiratosi qualche giorno prima. Inoltre la data di debutto del film nelle sale statunitensi viene spostata dal 1 agosto 2014 al 12 febbraio del 2015 a causa di uno slittamento."@it
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Fifty_shades_of_Gray"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Педесет нијанси — сива"@sr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://pt.wikipedia.org/wiki/index.html?curid=3714121>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ko.wikipedia.org/wiki/index.html?curid=875549>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"格雷的五十道陰影I：調教"@zh-Hant
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-cn/$4E94$5341$5EA6$7070"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey is a book written by E. L. James."@en
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"پنجاه سایه خاکستری"@fa
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ko.wikipedia.org/wiki/%25EA%25B7%25B8%25EB%25A0%2588%25EC%259D%25B4%25EC%259D%2598_50%25EA%25B0%2580%25EC%25A7%2580_%25EA%25B7%25B8%25EB%25A6%25BC%25EC%259E%2590>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@id
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Пятьдесят оттенков серого"@ru
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"格雷的五十道陰影"@zh-Hant
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.1256pb2j_>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-tw_title/$683C$96F7$7684$4E94$5341$9053$9670$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Пятьдесят оттенков серого"@ru
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Päťdesiat odtieňov sivej"@sk
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ca/Cinquanta_ombres_d$0027en_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topical_webpage>	<http://www.amazon.com/dp/0345803485>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/uk/$041F$0027$044F$0442$0434$0435$0441$044F$0442_$0432$0456$0434$0442$0456$043D$043A$0456$0432_$0441$0456$0440$043E$0433$043E"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fa/$067E$0646$062C$0627$0647_$0633$0627$064A$0647_$062E$0627$0643$0633$062A$0631$064A"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.written_work>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ru.wikipedia.org/wiki/%1F%4F%42%4C%34%35%41%4F%42_%3E%42%42%35%3D%3A%3E%32_%41%35%40%3E%33%3E>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/el_id/270752"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/it_title/Cinquanta_sfumature_di_grigio"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"پنجاه سایه خاکستری"@fa
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"חמישים גוונים של אפור"@en
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-tw_title>	"$683C$96F7$7684$4E94$5341$9053$9670$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fr_title/Cinquante_nuances_de_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Fifty_Shades_of_Gray"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"Pedeset nijansi - siva"@sr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"Педесет нијанси - сива"@sr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/it/Cinquanta_sfumature_di_rosso"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.uk>	"50_$0432$0456$0434$0442$0456$043D$043A$0456$0432_$0441$0456$0440$043E$0433$043E"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Petdeset odtenkov sive"@sl
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"Shades of Grey 01 - Geheimes Verlangen"@de
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"フィフティ・シェイズ・オブ・グレイはイギリスの作家E.L.ジェイムズの官能ロマンス小説である。"@ja
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Cinquante nuances de Grey"@fr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cincizeci de umbre ale lui Grey"@ro
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/es/50_sombras_de_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/50_Shades"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fi_id/1051449"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"„Greja piecdesmit nokrāsas” ir grāmata."@lv
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"«Пятьдесят оттенков серого» — эротический роман британской писательницы Э. Л. Джеймс, написанный и изданный в 2011 году. Роман повествует об истории отношений между предпринимателем Кристианом Греем и выпускницей университета Анастейшей Стил; в книге содержатся сцены откровенного сексуального характера, в том числе с БДСМ. После выхода роман стал бестселлером в США и Великобритании. В 37 странах мира было продано более 30 миллионов копий. Книга стала рекордсменом по скорости продаж, обогнав серию романов о Гарри Поттере и «Сумерки». В июне 2012 года роман «Пятьдесят оттенков серого» стал первым произведением, разошедшимся в количестве миллиона копий на Amazon Kindle. Книга стала первой частью трилогии, позже были опубликованы продолжения — «На пятьдесят оттенков темнее» и «Пятьдесят оттенков свободы». 23 августа 2012 года книга поступила в продажу в России."@ru
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Ana_Steele"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"Ana_Steele"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"П'ятдесят відтінків сірого"@uk
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/pl/Pi$0119$0107dziesi$0105t_twarzy_Greya"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Vijftig tinten grijs"@nl
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://uk.wikipedia.org/wiki/index.html?curid=1464075>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Петдесет нюанса сиво"@bg
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://nl.wikipedia.org/wiki/Vijftig_tinten_grijs>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cinquanta ombres d'en Grey"@ca
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/lt/Penkiasde$0161imt_pilk$0173_atspalvi$0173"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/de_title/Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sr/$041F$0435$0434$0435$0441$0435$0442_$043D$0438$0458$0430$043D$0441$0438_-_$0441$0438$0432$0430"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.image>	<http://rdf.freebase.com/ns/m.0q4m8vk>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"Fifty Shades of Grey"@hr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://de.wikipedia.org/wiki/index.html?curid=7537294>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"그레이의 50가지 그림자는 E. L. 제임스의 에로 소설이다."@ko
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"フィフティ・シェイズ・オブ・グレイ"@ja
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Πενήντα αποχρώσεις του γκρι"@el
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"그레이의 50가지 그림자"@ko
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.characters>	<http://rdf.freebase.com/ns/m.0v1jvl5>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/it/50_sfumature_di_nero"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://id.wikipedia.org/wiki/index.html?curid=988968>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fr>	"Cinquante_nuances_de_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-cn>	"$683C$96F7$7684$4E94$5341$9053$9634$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/es/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-cn_id>	"3000441"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/uk/50_$0432$0456$0434$0442$0456$043D$043A$0456$0432_$0441$0456$0440$043E$0433$043E"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-tw>	"$683C$96F7$768450$9053$9670$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.de>	"Fifty_Shades_Freed"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.sv_title>	"Femtio_nyanser"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fa>	"$067E$0646$062C$0627$0647_$0637$064A$0641_$062E$0627$0643$0633$062A$0631$064A"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ro/Cincizeci_de_umbre_ale_lui_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Το Πενήντα αποχρώσεις του γκρι είναι ερωτικό βιβλίο που έγραψε η συγγραφέας Ε. Λ. Τζέιμς.\nΚυκλοφόρησε το 2011 και είχε πωλήσεις 40 εκατομμυρίων αντιτύπων σε όλο τον κόσμο μέχρι τα μέσα του 2012. Είναι μέρος τριλογίας και χαρακτηρίζεται ως ερωτική λογοτεχνία."@el
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/de/Fifty_Shades_Darker"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://nl.wikipedia.org/wiki/index.html?curid=2942698>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.characters>	<http://rdf.freebase.com/ns/m.0nfjwz6>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.pt>	"Cinquenta_Tons_de_Cinza"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"50 nijansi sive"@hr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.uk_id>	"1464075"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fr/Cinquante_nuances_de_Grey_$0028livre$0029"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@pt
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"Fifty Shades of Grey"@ro
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/user.alust.default_domain.processed_with_review_queue.question_id>	"/rabj/store/questions/question_11d86958a4fb00ec"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"Fifty_Shades_of_Gray"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.characters>	<http://rdf.freebase.com/ns/m.010121bc>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ru/50_$043E$0442$0442$0435$043D$043A$043E$0432_$0441$0435$0440$043E$0433$043E"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Fifty_Shades"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/es_id/5336162"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/it/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/nl_title/Vijftig_tinten_grijs"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/tr/Grinin_Elli_Tonu"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/es_title/Cincuenta_sombras_de_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.article>	<http://rdf.freebase.com/ns/m.0j49l6t>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"50 shades of Grey"@hr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.sv_id>	"1692279"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fa_title>	"$067E$0646$062C$0627$0647_$0633$0627$06CC$0647_$062E$0627$06A9$0633$062A$0631$06CC"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.sr>	"$041F$0435$0434$0435$0441$0435$0442_$043D$0438$0458$0430$043D$0441$0438_-_$0441$0438$0432$0430"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ro.wikipedia.org/wiki/index.html?curid=1272777>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Anastasia_Steele"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty shades"@no
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fr/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/et/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.th>	"$0E1F$0E34$0E1F$0E15$0E35$0E49$0E40$0E0A$0E14$0E2A$0E4C$0E2D$0E2D$0E1F$0E40$0E01$0E23$0E22$0E4C"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.tr>	"Grinin_Elli_Tonu"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://zh.wikipedia.org/wiki/index.html?curid=3000441>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"Fifty_Shades_Of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://he.wikipedia.org/wiki/index.html?curid=1032569>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ru_title>	"$041F$044F$0442$044C$0434$0435$0441$044F$0442_$043E$0442$0442$0435$043D$043A$043E$0432_$0441$0435$0440$043E$0433$043E"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.he_id>	"1032569"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"Cinquenta Tons de Cinza"@pt
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Penkiasdešimt pilkų atspalvių"@lt
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Grinin Elli Tonu"@tr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://fi.wikipedia.org/wiki/Fifty_Shades_of_Grey>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://fa.wikipedia.org/wiki/%7E%46%2C%27%47_%33%27%CC%47_%2E%27%A9%33%2A%31%CC>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Viiskümmend halli varjundit"@et
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Femtio nyanser, är en erotisk trilogi skriven av E.L. James. Första romanen, Femtio nyanser av honom, publicerades på engelska 2011 av Vintage Books. Rättigheterna till boken har sålts till 37 länder, och den 10 september 2012 gavs den ut på svenska. Boken efterföljs av Femtio nyanser av mörker, som gavs ut på svenska den 28 oktober 2012, och Femtio nyanser av frihet, som gavs ut på den svenska 2 januari 2013. Trilogin har översätts till 52 olika språk och har sålt i över 90 miljoner exemplar världen över.\nBöckerna utspelar sig i Seattle och handlar om college-studenten Anastasia som inleder ett komplicerat förhållande med den rike entreprenören Christian. De har fått mycket uppmärksamhet för sina erotiska scener som innehåller bondage, sexuell dominans, underkastelse, sadism och masochism."@sv
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.he>	"$05D7$05DE$05D9$05E9$05D9$05DD_$05D2$05D5$05D5$05E0$05D9$05DD_$05E9$05DC_$05D0$05E4$05D5$05E8"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Grinin Elli Tonu"@tr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.characters>	<http://rdf.freebase.com/ns/m.0v1jv1s>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"Anastasia_Steele"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ko_id>	"875549"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ru_id/4040083"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ru_id>	"4040083"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.de>	"Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://th.wikipedia.org/wiki/%25E0%25B8%259F%25E0%25B8%25B4%25E0%25B8%259F%25E0%25B8%2595%25E0%25B8%25B5%25E0%25B9%2589%25E0%25B9%2580%25E0%25B8%258A%25E0%25B8%2594%25E0%25B8%25AA%25E0%25B9%258C%25E0%25B8%25AD%25E0%25B8%25AD%25E0%25B8%259F%25E0%25B9%2580%25E0%25B8%2581%25E0%25B8%25A3%25E0%25B8%25A2%25E0%25B9%258C>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Cincizeci de umbre ale lui Grey"@ro
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv/Fifty_shades_of_gray"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ca_id/1080098"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://zh.wikipedia.org/zh-tw/%3C%F7%84%94%41%53%70%71>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Cincuenta Sombras de Grey, es una novela erótica de 2011 de la autora británica E. L. James. Narrada en gran medida en Seattle, es la primera entrega de una trilogía que describe la relación entre una recién graduada de la universidad, Anastasia Steele, y un joven magnate de negocios, Christian Grey. Se destaca por sus escenas explícitamente eróticas, con elementos de las prácticas sexuales que involucran: bondage/disciplina, dominación/sumisión, sadismo/masoquismo.\nEl segundo y tercer libro se titulan: Cincuenta sombras más oscuras y Cincuenta sombras liberadas, respectivamente. Cincuenta Sombras de Grey ha encabezado las listas de best seller en todo el mundo, incluyendo el Reino Unido y los Estados Unidos. La serie ha vendido 31 millones de copias en todo el mundo, y los derechos del libro han sido vendidos en 37 países, estableciendo el récord como la edición de bolsillo de ventas más rápida de todos los tiempos, superando a la serie de Harry Potter. La novela ha conseguido críticas mixtas."@es
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ru/$041F$044F$0442$044C$0434$0435$0441$044F$0442_$043E$0442$0442$0435$043D$043A$043E$0432_$0441$0435$0440$043E$0433$043E"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/he_title/$05D7$05DE$05D9$05E9$05D9$05DD_$05D2$05D5$05D5$05E0$05D9$05DD_$05E9$05DC_$05D0$05E4$05D5$05E8"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://zh.wikipedia.org/zh-cn/%25E6%25A0%25BC%25E9%259B%25B7%25E7%259A%2584%25E4%25BA%2594%25E5%258D%2581%25E9%2581%2593%25E9%2599%25B0%25E5%25BD%25B1>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.pl>	"Pi$0119$0107dziesi$0105t_twarzy_Greya"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.el>	"$03A0$03B5$03BD$03AE$03BD$03C4$03B1_$03B1$03C0$03BF$03C7$03C1$03CE$03C3$03B5$03B9$03C2_$03C4$03BF$03C5_$03B3$03BA$03C1$03B9"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-tw>	"$683C$96F7$7684$4E94$5341$9053$9670$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://lt.wikipedia.org/wiki/Penkiasde%61imt_pilk%73_atspalvi%73>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.characters>	<http://rdf.freebase.com/ns/m.0v1jtq3>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/id_id/988968"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-cn/$683C$96F7$768450$9053$9634$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fr_title>	"Cinquante_nuances_de_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/pt_id/3714121"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"خمسون درجة من الرمادي"@ar
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://el.wikipedia.org/wiki/%25CE%25A0%25CE%25B5%25CE%25BD%25CE%25AE%25CE%25BD%25CF%2584%25CE%25B1_%25CE%25B1%25CF%2580%25CE%25BF%25CF%2587%25CF%2581%25CF%258E%25CF%2583%25CE%25B5%25CE%25B9%25CF%2582_%25CF%2584%25CE%25BF%25CF%2585_%25CE%25B3%25CE%25BA%25CF%2581%25CE%25B9>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.025m1qw>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/et/Viisk$00FCmmend_halli_varjundit"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://fr.wikipedia.org/wiki/index.html?curid=6420293>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/pl_title/Pi$0119$0107dziesi$0105t_twarzy_Greya"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://no.wikipedia.org/wiki/index.html?curid=1046112>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/el_title/$03A0$03B5$03BD$03AE$03BD$03C4$03B1_$03B1$03C0$03BF$03C7$03C1$03CE$03C3$03B5$03B9$03C2_$03C4$03BF$03C5_$03B3$03BA$03C1$03B9"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://pl.wikipedia.org/wiki/Pi%25C4%2599%25C4%2587dziesi%25C4%2585t_twarzy_Greya>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://it.wikipedia.org/wiki/index.html?curid=4082364>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/it/50_sfumature_di_grigio"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/50_Shades_of_Gray"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.es_id>	"5336162"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ca_id>	"1080098"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://et.wikipedia.org/wiki/index.html?curid=312960>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.it>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fa>	"$067E$0646$062C$0627$0647_$0637$06CC$0641_$062E$0627$06A9$0633$062A$0631$06CC"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en_title>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ru.wikipedia.org/wiki/index.html?curid=4040083>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"그레이의 50가지 그림자"@ko
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey is a 2011 erotic romance novel by British author E. L. James. It is the first installment in the Fifty Shades trilogy that traces the deepening relationship between a college graduate, Anastasia Steele, and a young business magnate, Christian Grey. It is notable for its explicitly erotic scenes featuring elements of sexual practices involving bondage/discipline, dominance/submission, and sadism/masochism. Originally self-published as an ebook and a print-on-demand, publishing rights were acquired by Vintage Books in March 2012.\nThe second and third volumes, Fifty Shades Darker and Fifty Shades Freed, were published in 2012. Fifty Shades of Grey has topped best-seller lists around the world, including those of the United Kingdom and the United States. The series has sold over 100 million copies worldwide and been translated into 52 languages, and set the record as the fastest-selling paperback of all time. Critical reception of the book, however, has been mixed, with the quality of its prose generally seen as poor. Universal Pictures and Focus Features plan a film adaptation scheduled for a February 13, 2015 release."@en
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.written_work.part_of_series>	<http://rdf.freebase.com/ns/m.0j5n43m>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topical_webpage>	<http://www.barnesandnoble.com/w/fifty-shades-of-grey-e-l-james/1104280977>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"Fifty Shades – Sidottu"@fi
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/pt/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/pt_title/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Cinquante nuances de Grey est une romance érotique écrite par la britannique E. L. James, connue d'abord par auto-publication sur le site Internet de l'auteur puis sur le site internet The Writers' Coffee Shop qui le propose à l'impression à la demande en mai 2011 ; l'éditeur Vintage Books le publie en édition papier dans une version révisée en avril 2012. Il s'agit du premier tome d'une trilogie, et il est suivi par Cinquante nuances plus sombres et Cinquante nuances plus claires.\nSe déroulant essentiellement à Seattle, cette trilogie retrace la relation entre une jeune diplômée en littérature, Anastasia Steele, et un homme d'affaires, Christian Grey. Il contient des scènes explicitement érotiques mettant en vedette des éléments de pratiques sexuelles impliquant la servitude, la discipline et différentes déclinaisons du sadisme et du masochisme.\nLe titre anglais original est à double sens, « Grey » faisant à la fois référence à l'un des deux héros et à la couleur grise et « Shade », traduit en français par le terme neutre « nuances », peut par ailleurs avoir la connotation plus sombre d'« ombre »."@fr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fi_title>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"50SOG"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.sr_id>	"632265"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Педесет нијанси — сива"@sr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"Fifty_Shades_Trilogy"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fa>	"$067E$0646$062C$0627$0647_$0648_$0633$0627$064A$0647_$0647$0627$064A_$062E$0627$0643$0633$062A$0631$064A"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.id_title>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/pl_id/2745505"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"Christian_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://lt.wikipedia.org/wiki/index.html?curid=444048>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ro.wikipedia.org/wiki/Cincizeci_de_umbre_ale_lui_Grey>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/he_id/1032569"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/id_title/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"فيفتي شيدز أوف غراي"@ar
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fr>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.it>	"Cinquanta_sfumature_di_grigio"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"خمسون درجة من الرمادي"@ar
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://fa.wikipedia.org/wiki/%25D9%25BE%25D9%2586%25D8%25AC%25D8%25A7%25D9%2587_%25D8%25B3%25D8%25A7%25DB%258C%25D9%2587_%25D8%25AE%25D8%25A7%25DA%25A9%25D8%25B3%25D8%25AA%25D8%25B1%25DB%258C>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://no.wikipedia.org/wiki/Fifty_shades>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fi/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"Cele 50 de vicii ale Domnului Grey"@ro
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.nl>	"50_tinten_grijs"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fa_title/$067E$0646$062C$0627$0647_$0633$0627$06CC$0647_$062E$0627$06A9$0633$062A$0631$06CC"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.03jz7p1>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.it_id>	"4082364"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"„Penkiasdešimt pilkų atspalvių“ – 2011 m. britų rašytojos E. L. James išleistas erotinis romanas. Tai pirmoji „Penkiasdešimt atspalvių“ trilogijos dalis, pasakojanti apie stiprėjančius koledžo studentės Anastazijos Stil ir jauno turtingo verslininko Kristiano Grėjaus jausmus vienas kitam. Knyga garsėja atviromis erotinėmis scenomis, detaliai aprašytais seksualinės praktikos elementais, tokiais, kaip vergovė ir disciplina, dominavimas ir nuolankumas bei sadizmas ir mazochizmas.\nAntrasis ir trečiasis tomai, „Penkiasdešimt tamsesnių atspalvių“ ir „Penkiasdešimt išlaisvintų atspalvių“ buvo išleisti 2012 m. Penkiasdešimt pilkų atspalvių pateko į bestselerių sąrašus visame pasaulyje, įskaitant Jungtinę Karalystę ir JAV. Iš viso parduota virš 100 mln. serijos kopijų, knyga išverstos į 52 kalbas. Kūrinys yra tapęs visų laikų greičiausiai parduodama knyga minkštu viršeliu. Kritikų įvertinimas labai įvairus, knygos prozos kokybė įvardijama prasta. Kino kompanijos Universal Pictures ir Focus Pictures filmo adaptaciją planuoja išleisti 2015 m. vasario 13 d."@lt
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"חמישים גוונים של אפור הוא רומן ארוטי משנת 2011 שנכתב על ידי הסופרת הבריטית אי. אל. ג'יימס.\nעלילת הסיפור מתרחשת בעיקר בסיאטל, זהו הכרך הראשון בטרילוגיה, העוקבת אחר מערכת היחסים העמוקה בין בוגרת קולג', בשם אנסטסיה סטיל, ואיש עסקים מצליח, כריסטיאן גריי. היצירה ידועה בשל הסצנות האירוטיות המפורטות במיוחד ומאופיינות באלמנטים של תנוחות מיניות הכוללות שעבוד/משמעת, דומיננטיות/כניעה, סדיזם/מזוכיזם.\nהכרכים השני והשלישי נקראים בעברית: \"חמישים גוונים של אופל\" ו\"חמישים גוונים של שחרור\", בהתאמה.\nהטרילוגיה, שפורסמה תחילה באינטרנט, זכתה להצלחה רבה, כספר אלקטרוני ובמהדורת דפוס. עד מרץ 2012 נמכרו יותר מ-250,000 עותקים משלושת ספרי הטרילוגיה, והספר הגיע למקום הראשון ברשימת רבי המכר של ניו יורק טיימס ולמקום ראשון אמזון.‏ תוך 11 שבועות נמכר הספר בבריטניה ביותר ממיליון עותקים.‏ ברחבי העולם הסדרה נמכרה ב- 65 מיליון עותקים, עם זכויות יוצרים שנמכרו ב-37 ארצות, וקבעו שיא כספר כריכה רכה המהיר ביותר במכירתו בכל הזמנים, עוקפים את סדרת \"הארי פוטר\".‏\nבספטמבר 2012 יצאה לאור גרסה עברית של הספר בהוצאת ידיעות ספרים.‏ המהדורה הראשונה, שהודפסה ב-50,000 עותקים, אזלה מהחנויות בתוך מספר ימים.‏ היצירה קיבלה ביקורת מעורבת עם השקתה.\nעל פי הספר הופק סרט באותו השם, שאמור לצאת לאקרנים בפברואר 2015."@iw
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"„Педесет нијанси — сива“ је еротски роман, први део трилогије британске списатељице Е. Л. Џејмс. Књига је први пут објављена за енглеско говорно подручје у мају 2011. године. Роман је 5. јула 2012. на српском тржишту објавила издавачка кућа „Лагуна“."@sr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/uk_title/$041F$0027$044F$0442$0434$0435$0441$044F$0442_$0432$0456$0434$0442$0456$043D$043A$0456$0432_$0441$0456$0440$043E$0433$043E"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://th.wikipedia.org/wiki/%1F%34%1F%15%35%49%40%0A%14%2A%4C%2D%2D%1F%40%01%23%22%4C>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-cn>	"$4E94$5341$5EA6$7070"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"Fifty_shades_of_Gray"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey é um romance erótico bestseller da autora inglesa Erika Leonard James publicado em 2011.\nO primeiro livro de uma trilogia que está sendo tratado como o \"pornô das mamães\" vendeu mais de 10 milhões de livros nas seis primeiras semanas. O título faz referência a um trocadilho com o nome do mestre da dominação descrito no livro, \"Christian\", de sobrenome \"Grey\".\nOs segundo e terceiro volumes da trilogia são intitulados Fifty Shades Darker e Fifty Shades Freed. Fifty Shades of Grey faz parte da trilogia que soma mais de quarenta milhões de cópias vendidas em trinta e sete países, ultrapassando o Harry Potter e O Código Da Vinci no Reino Unido. No Brasil, Cinquenta Tons de Cinza vendeu cerca de 30 milhões de cópias em dez semanas. Foi publicado em quarenta e sete países. No Brasil, a trilogia foi publicada pela Editora Intrínseca."@pt
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/pt/Cinquenta_Tons_de_Cinza"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Christian_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Grinin Elli Tonu İngiliz yazar E. L. James tarafından yazılan erotik romandır. Üçlemenin ilk kitabı olan Grinin Elli Tonu'nda üniversite öğrencisi olan Anastasia Steele'nin genç ve yakışıklı iş adamı Christian Grey'le tanışması ve aralarındaki ilişkiyi anlatıyor. Anastasia Grey'i tanıdıkça onun erotik istekleri karşısında dehşete kapılır fakat yine de bu adama karşı koyamaz.\nGrinin Elli Tonu, dünya çapında çok satanlar listesinin başına oturmuştur. Kitap 37 ülkede 70 milyon kopya satmıştır. Harry Potter serisini aşarak en hızlı satılan kitap serisi olma başarısını kazanmıştır. Film uyarlamasının 13 Şubat 2015'te vizyona gireceği duyurulmuştur."@tr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ru>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/th/$0E1F$0E34$0E1F$0E15$0E35$0E49$0E40$0E0A$0E14$0E2A$0E4C$0E2D$0E2D$0E1F$0E40$0E01$0E23$0E22$0E4C"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv_id/1692279"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@id
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/es/Cincuenta_sombras_de_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fi_id>	"1051449"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Cincizeci de umbre ale lui Grey este un roman erotic scris de E.L. James în 2011."@ro
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Viiskümmend halli varjundit"@et
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Vijftig tinten grijs is een erotische roman van de Britse schrijfster E.L. James, pseudoniem van Erika Leonard. Het boek werd na publicatie in 2011 een internationale bestseller en is het eerste deel van een drieluik. De andere delen heten Vijftig tinten donkerder en Vijftig tinten vrij. Begin 2013 waren er in Nederland al meer dan 1,5 miljoen exemplaren van verkocht, wereldwijd ruim 60 miljoen."@nl
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/it/50_sfumature_di_rosso"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sr_id/632265"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/id/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fr/Cinquante_nuances_de_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Pedeset nijansi sive"@hr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://fa.wikipedia.org/wiki/index.html?curid=1261723>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Penkiasdešimt pilkų atspalvių"@lt
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Petdeset odtenkov sive"@sl
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"«П'ятдесят відтінків сірого» — еротичний роман британської письменниці Е. Л. Джеймс, написаний і виданий 2011 року. Роман оповідає історію стосунків підприємця Крістіана Грея і студентки Анастасії Стіл; в книзі містяться відверті сексуальні сцени, що включають елементи такої сексуальної поведінки, як рабство/дисципліна, домінування/підкорення і садизм/мазохізм. Після виходу роман став бестселером в США і Великобританії, а також перевершив за швидкістю продажів попередніх рекордсменів — серію романів про Гаррі Поттера і «Сутінки». Станом на кінець 2012 року у світі було продано понад 40 мільйонів копій. Книга стала першою частиною трилогії, пізніше Е. Л. Джеймс випустила продовження — «П'ятдесят відтінків темряви» і «П'ятдесят відтінків свободи», враховуючи які, реалізований тираж сягає 60 мільйонів екземплярів.\nАмериканський журнал Publishers Weekly назвав Е. Л. Джеймс людиною року у книговидавничій справі, відзначивши, що неймовірний успіх її еротичної трилогії, зокрема, підняв загальні продажі паперових книг в магазинах і «перетворив еротичну прозу у гарячий товар»."@uk
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fa_id/1261723"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"A szürke ötven árnyalata"@hu
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://th.wikipedia.org/wiki/index.html?curid=549329>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ko>	"$ADF8$B808$C774$C758_50$AC00$C9C0_$ADF8$B9BC$C790"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.es_title>	"Cincuenta_sombras_de_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.written_work.original_language>	<http://rdf.freebase.com/ns/m.02h40lc>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"格雷的五十道陰影"@zh-TW
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv/Femtio_nyanser_av_m$00F6rker"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.description>	"Shades of Grey ist eine erotische Roman-Trilogie der britischen Autorin E. L. James aus den Jahren 2011–2012.\nDie Trilogie schildert die Beziehung zwischen der 21-jährigen Studentin Anastasia Steele und dem sechs Jahre älteren Unternehmer und Milliardär Christian Grey. Bekannt wurde die Romanreihe durch die Schilderung von BDSM-Praktiken. Der erste Band führte die Bestseller-Listen in mehreren Ländern an, darunter die der Vereinigten Staaten und des Vereinigten Königreichs. In Deutschland hat sich die Trilogie über 5,7 Millionen Mal verkauft. Weltweit wurden mehr als 70 Millionen Exemplare der Trilogie verkauft, der erste Roman gilt dabei als das schnellste jemals verkaufte Taschenbuch des Vereinigten Königreichs, noch vor den Taschenbuchausgaben der Harry-Potter-Romane. Kritiker rezensierten den ersten Band meist negativ."@de
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.characters>	<http://rdf.freebase.com/ns/m.0nfjvrm>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.it>	"50_sfumature_di_nero"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fa/$067E$0646$062C$0627$0647_$0633$0627$06CC$0647_$062E$0627$06A9$0633$062A$0631$06CC"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/tr_id/1679813"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://zh.wikipedia.org/zh-tw/%25E6%25A0%25BC%25E9%259B%25B7%25E7%259A%2584%25E4%25BA%2594%25E5%258D%2581%25E9%2581%2593%25E9%2599%25B0%25E5%25BD%25B1>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-cn/$683C$96F7$7684$4E94$5341$9053$9670$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"50 Sắc Thái - Xám"@vi
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://zh.wikipedia.org/zh-cn/index.html?curid=3000441>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ca>	"Cinquanta_ombres_d$0027en_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fa/$067E$0646$062C$0627$0647_$0648_$0633$0627$06CC$0647$200C$0647$0627$06CC_$062E$0627$06A9$0633$062A$0631$06CC"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.el_title>	"$03A0$03B5$03BD$03AE$03BD$03C4$03B1_$03B1$03C0$03BF$03C7$03C1$03CE$03C3$03B5$03B9$03C2_$03C4$03BF$03C5_$03B3$03BA$03C1$03B9"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fa>	"$067E$0646$062C$0627$0647_$0633$0627$064A$0647_$062E$0627$0643$0633$062A$0631$064A"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.sv>	"Fifty_shades_of_gray"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.it>	"50_sfumature_di_rosso"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://it.wikipedia.org/wiki/Cinquanta_sfumature_di_grigio>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/nl_id/2942698"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cinquanta sfumature di grigio"@it
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/no_id/1046112"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/lt/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/he/50_$05D2$05D5$05D5$05E0$05D9$05DD_$05E9$05DC_$05D0$05E4$05D5$05E8"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.he>	"50_$05D2$05D5$05D5$05E0$05D9$05DD_$05E9$05DC_$05D0$05E4$05D5$05E8"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/book.book.characters>	<http://rdf.freebase.com/ns/m.0v1jw3q>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Fifty_Shades_Trilogy"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-cn_id/3000441"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ro>	"Cincizeci_de_umbre_ale_lui_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.pl_title>	"Pi$0119$0107dziesi$0105t_twarzy_Greya"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fr_id/6420293"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fr/50_nuances_de_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"50 Shades of Grey"@ro
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"Femtio nyanser av honom"@sv
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ru>	"50_$043E$0442$0442$0435$043D$043A$043E$0432_$0441$0435$0440$043E$0433$043E"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.03yws9v>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.th_id>	"549329"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.pt_title>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-cn_title>	"$683C$96F7$7684$4E94$5341$9053$9670$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/50_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/he/$05D7$05DE$05D9$05E9$05D9$05DD_$05D2$05D5$05D5$05E0$05D9$05DD_$05E9$05DC_$05D0$05E4$05D5$05E8"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fa>	"$067E$0646$062C$0627$0647_$0633$0627$06CC$0647_$062E$0627$06A9$0633$062A$0631$06CC"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ro/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/it_id/4082364"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ro_title>	"Cincizeci_de_umbre_ale_lui_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.03jz7pj>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv_title/Femtio_nyanser"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/no/Fifty_shades"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"格雷的五十道陰影"@zh-TW
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-cn>	"$683C$96F7$768450$9053$9634$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://sv.wikipedia.org/wiki/Femtio_nyanser>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"50 нюанса сиво"@bg
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/it/Cinquanta_sfumature_di_nero"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sr_title/$041F$0435$0434$0435$0441$0435$0442_$043D$0438$0458$0430$043D$0441$0438_$2014_$0441$0438$0432$0430"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/de_id/7537294"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://uk.wikipedia.org/wiki/%1F'%4F%42%34%35%41%4F%42_%32%56%34%42%56%3D%3A%56%32_%41%56%40%3E%33%3E>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ca.wikipedia.org/wiki/Cinquanta_ombres_d'en_Grey>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv/Femtio_nyanser_av_honom"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.no>	"Fifty_shades"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fa_id>	"1261723"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-tw/$683C$96F7$7684$4E94$5341$9053$9634$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://he.wikipedia.org/wiki/%D7%DE%D9%E9%D9%DD_%D2%D5%D5%E0%D9%DD_%E9%DC_%D0%E4%D5%E8>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://tr.wikipedia.org/wiki/Grinin_Elli_Tonu>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/no_title/Fifty_shades"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.alias>	"50 Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/zh-tw/$683C$96F7$768450$9053$9670$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fa/$067E$0646$062C$0627$0647_$0637$064A$0641_$062E$0627$0643$0633$062A$0631$064A"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades - Fanget"@da
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ko/$ADF8$B808$C774$C758_50$AC00$C9C0_$ADF8$B9BC$C790"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@fi
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://pl.wikipedia.org/wiki/index.html?curid=2745505>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.de_id>	"7537294"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.tr_id>	"1679813"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ca_title>	"Cinquanta_ombres_d$0027en_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.tr>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fr>	"50_nuances_de_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.et>	"Viisk$00FCmmend_halli_varjundit"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-cn>	"$683C$96F7$768450$9053$9670$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ko_title>	"$ADF8$B808$C774$C758_50$AC00$C9C0_$ADF8$B9BC$C790"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.uk_title>	"$041F$0027$044F$0442$0434$0435$0441$044F$0442_$0432$0456$0434$0442$0456$043D$043A$0456$0432_$0441$0456$0440$043E$0433$043E"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fa>	"$067E$0646$062C$0627$0647$0654_$0633$0627$06CC$0647$0654_$062E$0627$06A9$0633$062A$0631$06CC"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.id>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.he_title>	"$05D7$05DE$05D9$05E9$05D9$05DD_$05D2$05D5$05D5$05E0$05D9$05DD_$05E9$05DC_$05D0$05E4$05D5$05E8"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.et_id>	"312960"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.de>	"Fifty_Shades_Darker"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.nl_id>	"2942698"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-tw>	"$4E94$5341$5EA6$7070"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ru>	"$041F$044F$0442$044C$0434$0435$0441$044F$0442_$043E$0442$0442$0435$043D$043A$043E$0432_$0441$0435$0440$043E$0433$043E"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.sv>	"50_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.uk>	"$041F$0027$044F$0442$0434$0435$0441$044F$0442_$0432$0456$0434$0442$0456$043D$043A$0456$0432_$0441$0456$0440$043E$0433$043E"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.zh-cn>	"$683C$96F7$7684$4E94$5341$9053$9670$5F71"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"Fifty_Shades"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.pt>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.et_title>	"Viisk$00FCmmend_halli_varjundit"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.sv>	"Femtio_nyanser_av_honom"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.sv>	"Femtio_nyanser"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.id>	"50_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"50_Shades_of_Gray"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.fr>	"Cinquante_nuances_de_Grey_$0028livre$0029"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.de>	"50_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.lt>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.es>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.lt_id>	"444048"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.ro>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.en>	"50_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Πενήντα αποχρώσεις του γκρι"@el
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Femtio nyanser"@sv
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"П'ятдесят відтінків сірого"@uk
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"格雷的五十道阴影"@zh
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Greja piecdesmit nokrāsas"@lv
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cinquante nuances de Grey"@fr
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Shades of Grey"@de
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades - Fanget"@da
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://rdf.freebase.com/key/wikipedia.tr_title>	"Grinin_Elli_Tonu"
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"ฟิฟตี้เชดส์ออฟเกรย์"@th
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/user.alust.default_domain.processed_with_review_queue>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/media_common.adapted_work>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.written_work>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0j64xyy>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/key/authority.musicbrainz.recording>	"e6a3a81d-7786-40f3-94af-7981c5d20504"
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/music.recording.artist>	<http://rdf.freebase.com/ns/m.0qfcd78>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/music.recording.length>	"112.0"
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://musicbrainz.org/recording/e6a3a81d-7786-40f3-94af-7981c5d20504>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.12h34cdys>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/music.recording.tracks>	<http://rdf.freebase.com/ns/m.0shs869>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/type.object.key>	"/authority/musicbrainz/e6a3a81d-7786-40f3-94af-7981c5d20504"
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/music.single>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/music.recording>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.09jd9nh>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/type.object.key>	"/authority/musicbrainz/recording/e6a3a81d-7786-40f3-94af-7981c5d20504"
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/key/authority.musicbrainz>	"e6a3a81d-7786-40f3-94af-7981c5d20504"
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/ns/type.object.key>	"/dataworld/freeq/job_b34daa4d-cec2-43bb-a87c-b1545149cda8_var_mb_ngs$003Arecording_recording_gid_e6a3a81d-7786-40f3-94af-7981c5d20504"
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://rdf.freebase.com/key/dataworld.freeq>	"job_b34daa4d-cec2-43bb-a87c-b1545149cda8_var_mb_ngs$003Arecording_recording_gid_e6a3a81d-7786-40f3-94af-7981c5d20504"
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/music.single>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/music.recording>
+<http://rdf.freebase.com/ns/m.0smttz3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/media_common.cataloged_instance>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.01xryyr>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.01xry_l>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.1s05rjhwb>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.0jd7j9s>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/media_common.cataloged_instance.isbn13>	"9780345803481"
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/book.book_edition.binding>	<http://rdf.freebase.com/ns/m.010qw14k>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/book.book_edition.book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/book.book_edition.publisher>	<http://rdf.freebase.com/ns/m.08f97q>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_edition>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.01xryw5>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/media_common.cataloged_instance>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.010n4899>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_edition>
+<http://rdf.freebase.com/ns/m.0shs869>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/music.release_track>
+<http://rdf.freebase.com/ns/m.0shs869>	<http://rdf.freebase.com/ns/music.release_track.recording>	<http://rdf.freebase.com/ns/m.0smttz3>
+<http://rdf.freebase.com/ns/m.0shs869>	<http://rdf.freebase.com/ns/music.release_track.release>	<http://rdf.freebase.com/ns/m.0sjktp5>
+<http://rdf.freebase.com/ns/m.0shs869>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0shs869>	<http://rdf.freebase.com/ns/music.release_track.track_number>	"2"
+<http://rdf.freebase.com/ns/m.0shs869>	<http://rdf.freebase.com/key/dataworld.freeq>	"job_b34daa4d-cec2-43bb-a87c-b1545149cda8_var_mb_ngs$003Arelease_track_release_track_gid_264844ce-4371-48d9-977c-5c6142845abd$003A$003Ae6a3a81d-7786-40f3-94af-7981c5d20504$003A$003A2"
+<http://rdf.freebase.com/ns/m.0shs869>	<http://rdf.freebase.com/ns/type.object.key>	"/dataworld/freeq/job_b34daa4d-cec2-43bb-a87c-b1545149cda8_var_mb_ngs$003Arelease_track_release_track_gid_264844ce-4371-48d9-977c-5c6142845abd$003A$003Ae6a3a81d-7786-40f3-94af-7981c5d20504$003A$003A2"
+<http://rdf.freebase.com/ns/m.0shs869>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0shs869>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0shs869>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/music.release_track>
+<http://rdf.freebase.com/ns/m.0shs869>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/key/authority.google.books.volume_id>	"wR7_WVAHbJAC"
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://www.w3.org/2000/01/rdf-schema#label>	"חמישים גוונים של אפור"@iw
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/common.topic.article>	<http://rdf.freebase.com/ns/m.0jwm65f>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.learningresource.e_book>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.01xryw5>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.01xryyj>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/media_common.creative_work.credit>	"E. L. James"
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_edition>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/media_common.cataloged_instance.isbn13>	"9781612130293"
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://books.google.com/books?id=qDP6NmRAPzsC>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/book.book_edition.publisher>	<http://rdf.freebase.com/ns/m.0j49lwd>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/book.book_edition.isbn>	<http://rdf.freebase.com/ns/m.0j49w6v>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.key>	"/authority/google/books/volume_id/wR7_WVAHbJAC"
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/media_common.cataloged_instance>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.01xryyr>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.name>	"Пятьдесят оттенков серого"@ru
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/key/authority.google.books.volume_id>	"qDP6NmRAPzsC"
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/book.book_edition.book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.0jd7j9s>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://books.google.com/books?id=wR7_WVAHbJAC>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey is a bestselling erotic fiction paperback and e-book by British author E. L. James. Set largely in Seattle, it is the first installment in a trilogy that traces the deepening relationship between college graduate Anastasia Steele and a young business magnate, Christian Grey. It is notable for its explicitly erotic scenes featuring elements of BDSM. The second and third volumes are entitled Fifty Shades Darker and Fifty Shades Freed respectively. Fifty Shades of Grey has topped bestseller lists in the US, the UK and around the world.The series has sold around ten million copies worldwide, with book rights having been sold in 37 countries."@en
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.key>	"/authority/google/books/volume_id/qDP6NmRAPzsC"
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/book.book_edition.binding>	<http://rdf.freebase.com/ns/m.01bcv7>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.125dv49j3>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/freebase.valuenotation.is_reviewed>	<http://rdf.freebase.com/ns/m.01xry_l>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.key>	"/soft/isbn/9781612130293/best"
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/type.object.name>	"חמישים גוונים של אפור"@iw
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/ns/common.topic.image>	<http://rdf.freebase.com/ns/m.0jwm66b>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://rdf.freebase.com/key/soft.isbn.9781612130293>	"best"
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://www.w3.org/2000/01/rdf-schema#label>	"Пятьдесят оттенков серого"@ru
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.learningresource.e_book>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_edition>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/media_common.cataloged_instance>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0j49lw7>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/type.object.key>	"/authority/google/books/volume_id/0VIkLwEACAAJ"
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/media_common.cataloged_instance.isbn13>	"9781612130286"
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_edition>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://books.google.com/books?id=0VIkLwEACAAJ>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/type.object.name>	"Пятьдесят оттенков серого"@ru
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/type.object.key>	"/soft/isbn/9781612130286/best"
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/media_common.cataloged_instance>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/media_common.creative_work.credit>	"E. L. James"
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/book.book_edition.publisher>	<http://rdf.freebase.com/ns/m.0j49lwd>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/book.book_edition.isbn>	<http://rdf.freebase.com/ns/m.0j49lz4>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/type.object.name>	"חמישים גוונים של אפור"@iw
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/book.book_edition.book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.12586lykw>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/key/soft.isbn.9781612130286>	"best"
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/book.book_edition.publication_date>	"2012-03-05"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/book.book_edition.binding>	<http://rdf.freebase.com/ns/m.03dq14>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.01xryw5>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/key/authority.google.books.volume_id>	"0VIkLwEACAAJ"
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://www.w3.org/2000/01/rdf-schema#label>	"Пятьдесят оттенков серого"@ru
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://www.w3.org/2000/01/rdf-schema#label>	"חמישים גוונים של אפור"@iw
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_edition>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/media_common.cataloged_instance>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>
+<http://rdf.freebase.com/ns/m.0j49lwq>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"The Adventures of Max & Banks"@ro
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fi/Fifty_Shades_of_Grey_$0028elokuva$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.trailers>	<https://www.youtube.com/watch?v=z4nJX8snP4s>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/dataworld.freeq>	"job_dcd9f76a-37dd-4fea-839a-12667be6999b_var_en_wikipedia_org_wiki_Fifty_Shades_of_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"フィフティ・シェイズ・オブ・グレイ"@ja
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Päťdesiat odtieňov sivej"@sk
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.pt_title>	"Fifty_Shades_of_Grey_$0028filme$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ko_id/1052140"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Петдесет нюанса сиво"@bg
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://www.imdb.com/title/tt2322441/>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/es_title/Fifty_Shades_of_Grey_$0028pel$00EDcula$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fr_id/7574309"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Cinquante nuances de Grey"@fr
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.social_media_presence>	<http://plus.google.com/103896285706854787596>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv/Femtio_nyanser_av_honom_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"50 sắc thái – Xám"@vi
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey is an upcoming American erotic/romantic drama film directed by Sam Taylor-Johnson with a screenplay by Kelly Marcel, Patrick Marber, and Mark Bomback, based on the best-selling novel of the same name by E. L. James. It is set to be released on February 13, 2015 by Michael De Luca Productions, Trigger Street Productions, Focus Features, and Universal Pictures. Charlie Hunnam and Dakota Johnson were initially cast in the leading roles of Christian Grey and Anastasia Steele, respectively, with Hunnam departing the project the following month and being replaced by Jamie Dornan."@en
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.release_date_s>	<http://rdf.freebase.com/ns/m.0zf6zpm>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"《그레이의 50가지 그림자》는 2015년 공개될 예정인 미국의 영화로, 동명의 소설을 원작으로 한다."@ko
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/media_common.adaptation.adapted_from>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@nl
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en_title/Fifty_Shades_of_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey este o adaptare cinematografică a romanului omonim, de E. L. James."@ro
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/authority/google/google_plus_page/103896285706854787596"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv/Fifty_Shades_of_Gray"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/id/Fifty_Shades_of_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv/Fifty_shades_of_Gray"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"فيفتى شيدز أوف جراى هو فيلم رومانسي"@ar
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Grinin Elli Tonu"@tr
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/media_common.adaptation>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://sv.wikipedia.org/wiki/index.html?curid=3562528>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.written_by>	<http://rdf.freebase.com/ns/m.0gcctj9>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/m.0zf0950>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Pięćdziesiąt twarzy Greya"@pl
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.es>	"Fifty_Shades_of_Grey_$0028pel$00EDcula$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.release_date_s>	<http://rdf.freebase.com/ns/m.0zf6zth>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/nl_title/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.ko_id>	"1052140"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"ฟิฟตี้ เชดส์ ออฟ เกรย์"@th
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@ro
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.trailers>	<https://www.youtube.com/watch?v=SfZWFDs0LxA>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ko/$ADF8$B808$C774$C758_50$AC00$C9C0_$ADF8$B9BC$C790_$0028$C601$D654$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Greja piecdesmit nokrāsas"@lv
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fr/Cinquante_nuances_de_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ru.wikipedia.org/wiki/index.html?curid=4932770>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"Pedeset nijansi sive"@hr
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"フィフティ・シェイズ・オブ・グレイ"@ja
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://fr.wikipedia.org/wiki/index.html?curid=7574309>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"חמישים גוונים של אפור"@en
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.1255yzqnr>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"50 nijansi sive"@hr
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Cinquanta ombres d'en Grey"@ca
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://pt.wikipedia.org/wiki/index.html?curid=4169758>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"חמישים גוונים של אפור"@iw
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/dataworld/freeq/job_dcd9f76a-37dd-4fea-839a-12667be6999b_var_en_wikipedia_org_wiki_Fifty_Shades_of_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.sv>	"Fifty_shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Pięćdziesiąt twarzy Greya - adaptacja filmowa powieści napisanej przez E. L. Jamesa w reżyserii Sama Taylor-Wooda."@pl
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fr_title/Cinquante_nuances_de_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Pięćdziesiąt twarzy Greya"@pl
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/m.010121b8>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@pt
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"חמישים גוונים של אפור"@iw
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/m.01012114>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.0jsg2m>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ru_id/4932770"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/es/Fifty_shades_of_Grey_$0028pel$00EDcula$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://fr.wikipedia.org/wiki/Cinquante_nuances_de_Grey_(film)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"„Петдесет нюанса сиво“ е екранизация по едноименния роман на Е. Л. Джеймс, която предстои да излезе по кината през 2015 година."@bg
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"חמישים גוונים של אפור הוא סרט דרמה רומנטית אמריקאי. הסרט מבוסס על הספר חמישים גוונים של אפור מאת הסופרת אי. אל. ג'יימס."@iw
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"50 nijansi sive"@sr
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://id.wikipedia.org/wiki/index.html?curid=1587100>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ko_title/$ADF8$B808$C774$C758_50$AC00$C9C0_$ADF8$B9BC$C790_$0028$C601$D654$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@sv
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ru.wikipedia.org/wiki/%1F%4F%42%4C%34%35%41%4F%42_%3E%42%42%35%3D%3A%3E%32_%41%35%40%3E%33%3E_(%44%38%3B%4C%3C)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/m.0101211y>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Grinin Elli Tonu"@tr
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"フィフティ・シェイズ・オブ・グレイは、2015年2月全米公開予定の映画である。"@ja
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.initial_release_date>	"2015-02-11"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://www.beyazperde.com/filmler/film-205450>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://fi.wikipedia.org/wiki/index.html?curid=1148988>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://he.wikipedia.org/wiki/%D7%DE%D9%E9%D9%DD_%D2%D5%D5%E0%D9%DD_%E9%DC_%D0%E4%D5%E8_(%E1%E8%D8)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@da
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ru/$041F$044F$0442$044C$0434$0435$0441$044F$0442_$043E$0442$0442$0435$043D$043A$043E$0432_$0441$0435$0440$043E$0433$043E_$0028$0444$0438$043B$044C$043C$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.release_date_s>	<http://rdf.freebase.com/ns/m.0zf6zdr>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://it.wikipedia.org/wiki/Cinquanta_sfumature_di_grigio_(film)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en_id/40218034"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://id.wikipedia.org/wiki/Fifty_Shades_of_Grey_(film)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/index.html?curid=40218034>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"格雷的五十道陰影"@zh-Hant
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"50 Shades of Grey"@ro
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"Fifty Shades of Grey"@th
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/ru_title/$041F$044F$0442$044C$0434$0435$0441$044F$0442_$043E$0442$0442$0435$043D$043A$043E$0432_$0441$0435$0440$043E$0433$043E_$0028$0444$0438$043B$044C$043C$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/pt_id/4169758"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@nl
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.official_website>	<http://www.fiftyshades-movie.co.uk/>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.sv>	"Fifty_shades_of_Gray"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.subjects>	<http://rdf.freebase.com/ns/m.01g6r>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.nl>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.ru>	"$041F$044F$0442$044C$0434$0435$0441$044F$0442_$043E$0442$0442$0435$043D$043A$043E$0432_$0441$0435$0440$043E$0433$043E_$0028$0444$0438$043B$044C$043C$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.fi_id>	"1148988"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Πενήντα αποχρώσεις του γκρι"@el
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Cinquanta sfumature di grigio"@it
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.production_companies>	<http://rdf.freebase.com/ns/m.024rbz>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"„Greja piecdesmit nokrāsas” ir filma."@lv
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"П'ятдесят відтінків сірого"@uk
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"50 odtenkov sive"@sl
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ru.wikipedia.org/wiki/%25D0%259F%25D1%258F%25D1%2582%25D1%258C%25D0%25B4%25D0%25B5%25D1%2581%25D1%258F%25D1%2582_%25D0%25BE%25D1%2582%25D1%2582%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25BE%25D0%25B2_%25D1%2581%25D0%25B5%25D1%2580%25D0%25BE%25D0%25B3%25D0%25BE_(%25D1%2584%25D0%25B8%25D0%25BB%25D1%258C%25D0%25BC)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"50 pilkų atspalvių"@lt
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://sv.wikipedia.org/wiki/Fifty_Shades_of_Grey>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://he.wikipedia.org/wiki/%25D7%2597%25D7%259E%25D7%2599%25D7%25A9%25D7%2599%25D7%259D_%25D7%2592%25D7%2595%25D7%2595%25D7%25A0%25D7%2599%25D7%259D_%25D7%25A9%25D7%259C_%25D7%2590%25D7%25A4%25D7%2595%25D7%25A8_(%25D7%25A1%25D7%25A8%25D7%2598)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@pt
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.pt>	"Fifty_Shades_of_Grey_$0028filme$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.id>	"Fifty_Shades_of_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/authority/imdb/title/tt2322441"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/authority.google.google_plus_page>	"103896285706854787596"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ko.wikipedia.org/wiki/%25EA%25B7%25B8%25EB%25A0%2588%25EC%259D%25B4%25EC%259D%2598_50%25EA%25B0%2580%25EC%25A7%2580_%25EA%25B7%25B8%25EB%25A6%25BC%25EC%259E%2590_(%25EC%2598%2581%25ED%2599%2594)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"그레이의 50가지 그림자"@ko
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"50 αποχρώσεις του γκρι"@en
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/pt/Fifty_Shades_Of_Grey_$0028filme$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv_id/3562528"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/id_id/1587100"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/es/Cincuenta_sombras_de_Grey_$0028pel$00EDcula$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Päťdesiat odtieňov sivej"@sk
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey is a film adaptation of the novel by  E. L. James."@en
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/imdb.topic.title_id>	"tt2322441"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.en>	"Fifty_Shades_of_Grey_$00282014_film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/m.0ydn3r2>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.music>	<http://rdf.freebase.com/ns/m.02bh9>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Penkiasdešimt pilkų atspalvių"@lt
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey is een toekomstige Amerikaanse erotische film. Het verhaal is gebaseerd op de gelijknamige roman van E.L. James. De film wordt geregisseerd door Sam Taylor-Wood."@nl
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/nl_id/2961778"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@da
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/m.0ykm3q_>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"«Пятьдесят оттенков серого» − кинофильм режиссёра Сэм Тейлор-Вуд по одноимённому эротическому роману британской писательницы Э. Л. Джеймс. Мировая премьера назначена на 13 февраля 2015 года."@ru
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.release_date_s>	<http://rdf.freebase.com/ns/m.0zf6zs5>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Fifty_Shades_of_Grey_$00282014_film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/nl/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://it.wikipedia.org/wiki/index.html?curid=5056464>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/it_id/5056464"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.sv_id>	"3562528"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.genre>	<http://rdf.freebase.com/ns/m.02822>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.fi_title>	"Fifty_Shades_of_Grey_$0028elokuva$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Пятьдесят оттенков серого"@ru
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"Femtio nyanser av honom"@sv
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.distributors>	<http://rdf.freebase.com/ns/m.0ytvz7d>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"П'ятдесят відтінків сірого"@uk
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.release_date_s>	<http://rdf.freebase.com/ns/m.010nrgv3>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.cinematography>	<http://rdf.freebase.com/ns/m.0d_sxh>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"그레이의 50가지 그림자"@ko
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.genre>	<http://rdf.freebase.com/ns/m.02js9>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"Fifty Shades of Grey"@lv
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.en_title>	"Fifty_Shades_of_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.pt_id>	"4169758"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://es.wikipedia.org/wiki/index.html?curid=5892324>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.release_date_s>	<http://rdf.freebase.com/ns/m.0zf6zhx>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"ฟิฟตี้ เชดส์ ออฟ เกรย์"@th
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://fi.wikipedia.org/wiki/Fifty_Shades_of_Grey_(elokuva)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"50 nijansi sive"@hr
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.fr>	"Cinquante_nuances_de_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"50 sắc thái – Xám"@vi
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/es/Fifty_Shades_of_Grey_$0028pel$00EDcula$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Padesát odstínů šedi"@cs
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.directed_by>	<http://rdf.freebase.com/ns/m.04zw58>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/pt/Fifty_Shades_of_Grey_$0028filme$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://nl.wikipedia.org/wiki/Fifty_Shades_of_Grey>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@es
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"50 αποχρώσεις του γκρι"@el
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/id_title/Fifty_Shades_of_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@fi
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/he/$05D7$05DE$05D9$05E9$05D9$05DD_$05D2$05D5$05D5$05E0$05D9$05DD_$05E9$05DC_$05D0$05E4$05D5$05E8_$0028$05E1$05E8$05D8$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/m.01012136>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.he>	"$05D7$05DE$05D9$05E9$05D9$05DD_$05D2$05D5$05D5$05E0$05D9$05DD_$05E9$05DC_$05D0$05E4$05D5$05E8_$0028$05E1$05E8$05D8$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.es>	"Fifty_shades_of_Grey_$0028pel$00EDcula$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"ฟิฟตี้เชดส์ออฟเกรย์"@th
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ko.wikipedia.org/wiki/%F8%08%74%58_50%00%C0_%F8%BC%90_(%01%54)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"50 нюанса сиво"@bg
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.ko_title>	"$ADF8$B808$C774$C758_50$AC00$C9C0_$ADF8$B9BC$C790_$0028$C601$D654$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv/Fifty_shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/he_title/$05D7$05DE$05D9$05E9$05D9$05DD_$05D2$05D5$05D5$05E0$05D9$05DD_$05E9$05DC_$05D0$05E4$05D5$05E8_$0028$05E1$05E8$05D8$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/es_id/5892324"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey adalah sebuah film drama romantis erotis Amerika yang disutradarai oleh Sam Taylor-Johnson dengan skenario tulisan Kelly Marcel, Patrick Marber, dan Mark Bomback, berdasarkan cerita dari novel Fifty Shades of Grey oleh E. L. James. Film ini direncanakan akan dirilis pada 13 Februari 2015 oleh Michael De Luca Productions, Trigger Street Productions, Focus Features, dan Universal Pictures."@id
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@sv
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"50 нијанси сиве"@sr
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"A szürke ötven árnyalata"@hu
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/it_title/Cinquanta_sfumature_di_grigio_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/it/Cinquanta_sfumature_di_grigio_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Петдесет нюанса сиво"@bg
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.sv>	"Femtio_nyanser_av_honom_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/sv_title/Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.fr_title>	"Cinquante_nuances_de_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"فيفتى شيدز أوف جراى"@ar
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@fi
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/m.0wydjwr>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"Grinin 50 Tonu"@tr
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Penkiasdešimt pilkų atspalvių"@lt
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://nl.wikipedia.org/wiki/index.html?curid=2961778>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Cinquante nuances de Grey est un film américain de Sam Taylor-Wood, dont la sortie est prévue pour le 11 février 2015.\nIl s'agit de l'adaptation du roman homonyme d'E. L. James, premier tome d'une trilogie."@fr
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"格雷的五十道陰影"@zh-Hant
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"50 нијанси сиве"@sr
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.genre>	<http://rdf.freebase.com/ns/m.02l7c8>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey é um filme erótico e drama romântico estadunidense baseado no best-seller livro homônimo da autora britânica E. L. James, com estreia prevista para fevereiro de 2015. O filme conta com a direção de Sam Taylor-Wood e roteiro de Kelly Marcel, Patrick Marber, e Mark Bomback. Está previsto para ser lançado em 13 de fevereiro de 2015 nos Estados Unidos e produzido pela Michael De Luca Productions, Trigger Street Productions, Focus Features e Universal Pictures. Charlie Hunnam e Dakota Johnson foram inicialmente lançados nos principais papéis de Christian Grey e Anastasia Steele, respectivamente, com Hunnam deixando o projeto no mês seguinte e sendo substituído por Jamie Dornan."@pt
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Padesát odstínů šedi"@cs
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Πενήντα αποχρώσεις του γκρι"@el
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://pt.wikipedia.org/wiki/Fifty_Shades_of_Grey_(filme)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Fifty_Shades_of_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.fr_id>	"7574309"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.nl_id>	"2961778"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Cinquanta sfumature di grigio è un film del 2015 diretto da Sam Taylor-Johnson, con protagonisti Jamie Dornan e Dakota Johnson.\nLa pellicola è l'adattamento cinematografico dell'omonimo romanzo del 2011 scritto da E. L. James, qui anche produttrice del film."@it
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://es.wikipedia.org/wiki/Fifty_Shades_of_Grey_(pel%EDcula)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Cinquanta ombres d'en Grey és una pel·lícula."@ca
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://ko.wikipedia.org/wiki/index.html?curid=1052140>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.es_title>	"Fifty_Shades_of_Grey_$0028pel$00EDcula$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fi_id/1148988"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://he.wikipedia.org/wiki/index.html?curid=1185195>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Greja piecdesmit nokrāsas"@lv
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.release_date_s>	<http://rdf.freebase.com/ns/m.0zf6z4v>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey är en amerikansk kommande romantisk dramafilm baserad på den erotiska romanen Femtio nyanser av honom, i regi av Sam Taylor-Wood efter ett manus av Kelly Marcel, Patrick Marber och Mark Bomback. Filmen planeras att ha biopremiär den 13 februari 2015. Den handlar om 21-åriga Anastasia Steele som inleder ett komplicerat förhållande med den rike entreprenören Christian Grey."@sv
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/fi_title/Fifty_Shades_of_Grey_$0028elokuva$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.it>	"Cinquanta_sfumature_di_grigio_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"50 twarzy Greya"@pl
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.release_date_s>	<http://rdf.freebase.com/ns/m.0zf6zl1>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.release_date_s>	<http://rdf.freebase.com/ns/m.010nrgt4>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/Fifty_Shades_of_Grey_(film)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.release_date_s>	<http://rdf.freebase.com/ns/m.010nrgrb>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/he_id/1185195"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.es>	"Cincuenta_sombras_de_Grey_$0028pel$00EDcula$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.release_date_s>	<http://rdf.freebase.com/ns/m.010nrgs5>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey on vuonna 2015 ensi-iltansa saava Sam Taylor-Johnsonin ohjaama romanttinen elokuva, joka perustuu E. L. Jamesin samannimiseen romaaniin vuodelta 2011.\nElokuva saa ensi-iltansa Yhdyvalloissa ja Suomessa 13. helmikuuta 2015."@fi
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.release_date_s>	<http://rdf.freebase.com/ns/m.0zf6z94>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.fi>	"Fifty_Shades_of_Grey_$0028elokuva$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.en_id>	"40218034"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/m.01011_t5>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.pt>	"Fifty_Shades_Of_Grey_$0028filme$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/pt_title/Fifty_Shades_of_Grey_$0028filme$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"Fifty shades of Grey"@es
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"A szürke ötven árnyalata"@hu
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/50_Shades_of_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.id_title>	"Fifty_Shades_of_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.alias>	"フィフティ・シェイズ・オブ・グレー"@ja
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey (ฟิฟตี้ เชดส์ ออฟ เกรย์) เป็นภาพยนตร์ที่สร้างจากนวนิยายยอดขายอันดับ 1 ของ อี แอล เจมส์"@th
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.description>	"Fifty Shades of Grey es una película dramática dirigida por Sam Taylor-Wood que será estrenada en Estados Unidos el 13 de febrero de 2015. Es la versión cinematográfica de la exitosa novela del mismo nombre, publicada en 2011 por la británica E. L. James, que describe la relación erótica entre una chica virgen recién graduada de la universidad y un joven magnate. La encargada de adaptar el guion es Kelly Marcel."@es
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/film.film.story_by>	<http://rdf.freebase.com/ns/m.0j49kcv>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.he_title>	"$05D7$05DE$05D9$05E9$05D9$05DD_$05D2$05D5$05D5$05E0$05D9$05DD_$05E9$05DC_$05D0$05E4$05D5$05E8_$0028$05E1$05E8$05D8$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.key>	"/source/beyazperde/filmler/205450"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@id
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://es.wikipedia.org/wiki/Fifty_Shades_of_Grey_(pel%25C3%25ADcula)>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/film.film>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.ru_id>	"4932770"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.ru_title>	"$041F$044F$0442$044C$0434$0435$0441$044F$0442_$043E$0442$0442$0435$043D$043A$043E$0432_$0441$0435$0440$043E$0433$043E_$0028$0444$0438$043B$044C$043C$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.id_id>	"1587100"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.sv>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/source.beyazperde.filmler>	"205450"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.sv_title>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/authority.imdb.title>	"tt2322441"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.sv>	"Fifty_Shades_of_Gray"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@id
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.it_id>	"5056464"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.nl_title>	"Fifty_Shades_of_Grey"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.en>	"Fifty_Shades_of_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.he_id>	"1185195"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.en>	"50_Shades_of_Grey_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.it_title>	"Cinquanta_sfumature_di_grigio_$0028film$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.ko>	"$ADF8$B808$C774$C758_50$AC00$C9C0_$ADF8$B9BC$C790_$0028$C601$D654$0029"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cinquante nuances de Grey"@fr
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@es
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cinquanta ombres d'en Grey"@ca
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fifty Shades of Grey"@ro
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cinquanta sfumature di grigio"@it
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/key/wikipedia.es_id>	"5892324"
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Пятьдесят оттенков серого"@ru
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"فيفتى شيدز أوف جراى"@ar
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/2000/01/rdf-schema#label>	"50 odtenkov sive"@sl
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/media_common.adaptation>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>
+<http://rdf.freebase.com/ns/m.0jx8jz8>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/film.film>
