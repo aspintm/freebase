@@ -1,0 +1,462 @@
+{
+	"mid": null,
+	"title": null,
+	"alts": [],
+	"characters": [],
+	"authors": []
+}
+{
+	"mid": "m.0j64xyy",
+	"title": "Fifty Shades of Grey",
+	"alts": [
+		{ "lang": "en", "alt": "50 Shades of Grey" },
+		{ "lang": "bg", "alt": "50 нюанса сиво" },
+		{ "lang": "sv", "alt": "Femtio nyanser av honom" },
+		{ "lang": "ro", "alt": "50 Shades of Grey" },
+		{ "lang": "ro", "alt": "Cele 50 de vicii ale Domnului Grey" },
+		{ "lang": "ar", "alt": "فيفتي شيدز أوف غراي" },
+		{ "lang": "fi", "alt": "Fifty Shades – Sidottu" },
+		{ "lang": "pt", "alt": "Cinquenta Tons de Cinza" },
+		{ "lang": "hr", "alt": "50 shades of Grey" },
+		{ "lang": "ro", "alt": "Fifty Shades of Grey" },
+		{ "lang": "hr", "alt": "50 nijansi sive" },
+		{ "lang": "hr", "alt": "Fifty Shades of Grey" },
+		{ "lang": "de", "alt": "Shades of Grey 01 - Geheimes Verlangen" },
+		{ "lang": "sr", "alt": "Педесет нијанси - сива" },
+		{ "lang": "sr", "alt": "Pedeset nijansi - siva" },
+		{ "lang": "en", "alt": "חמישים גוונים של אפור" },
+		{ "lang": "zh-Hant", "alt": "格雷的五十道陰影I：調教" },
+		{ "lang": "zh", "alt": "格雷的五十道陰影" }
+	],
+	"characters": [
+		{ "character": "Ray Steele" },
+		{ "character": "Bob Adams" },
+		{ "character": "Ethan Kavanagh" },
+		{ "character": "Elliot Grey" },
+		{ "character": "Carrick Grey" },
+		{ "character": "Carla Adams" },
+		{ "character": "Jason Taylor" },
+		{ "character": "Jose Rodriguez" },
+		{ "character": "Katherine Kavanagh" },
+		{ "character": "Christian Grey" }
+	],
+	"authors": [
+		{ "author": "E. L. James" }
+	]
+}
+{
+	"mid": "m.07bz5",
+	"title": "The Lord of the Rings",
+	"alts": [
+		{ "lang": "en", "alt": "50 Shades of Grey" },
+		{ "lang": "en", "alt": "LotR" },
+		{ "lang": "en", "alt": "The Lord of the Rings Boxed Set" },
+		{ "lang": "vi", "alt": "Chúa tể những chiếc nhẫn" },
+		{ "lang": "ro", "alt": "SI" },
+		{ "lang": "sv", "alt": "Härskarringen" },
+		{ "lang": "sv", "alt": "Ringarnas herre" },
+		{ "lang": "fi", "alt": "LOTR" },
+		{ "lang": "sv", "alt": "The Lord of the Rings" },
+		{ "lang": "fi", "alt": "TSH" },
+		{ "lang": "en", "alt": "The Lord of the Ring" },
+		{ "lang": "uk", "alt": "Володар Перснів" }
+	],
+	"characters": [
+		{ "character": "Elrond" },
+		{ "character": "Arwen" },
+		{ "character": "Treebeard" },
+		{ "character": "Denethor II" },
+		{ "character": "Saruman" },
+		{ "character": "Bilbo Baggins" },
+		{ "character": "Faramir" },
+		{ "character": "Théoden" },
+		{ "character": "Éowyn" },
+		{ "character": "Boromir" },
+		{ "character": "Aragorn" },
+		{ "character": "Gimli" },
+		{ "character": "Gandalf" },
+		{ "character": "Sauron" },
+		{ "character": "Meriadoc Brandybuck" },
+		{ "character": "Peregrin Took" },
+		{ "character": "Samwise Gamgee" },
+		{ "character": "Frodo Baggins" },
+		{ "character": "Elendil" },
+		{ "character": "Anárion" },
+		{ "character": "Eldarion" },
+		{ "character": "Fredegar Bolger" },
+		{ "character": "Glorfindel" },
+		{ "character": "Galadriel" },
+		{ "character": "Forlong the Fat" },
+		{ "character": "Harry Goatleaf" },
+		{ "character": "Gamling" },
+		{ "character": "Beregond" },
+		{ "character": "Radagast" },
+		{ "character": "Gollum" },
+		{ "character": "Legolas" },
+		{ "character": "Celeborn" },
+		{ "character": "Éomer" },
+		{ "character": "Nazgûl" },
+		{ "character": "Witch-king of Angmar" },
+		{ "character": "Gríma Wormtongue" },
+		{ "character": "Shelob" },
+		{ "character": "Balrog" },
+		{ "character": "Harad" },
+		{ "character": "Corsairs of Umbar" },
+		{ "character": "Old Man Willow" }
+	],
+	"authors": [
+		{ "author": "J. R. R. Tolkien" }
+	]
+}
+{
+	"mid": "m.0c_vk",
+	"title": "Harry Potter and the Philosopher's Stone",
+	"alts": [
+		{ "lang": "en", "alt": "Harry Potter and the Sorcerer's Stone" },
+		{ "lang": "sv", "alt": "Harry Potter and the Philosopher's Stone" },
+		{ "lang": "zh-TW", "alt": "哈利·波特与魔法石" }
+	],
+	"characters": [
+		{ "character": "Harry Potter" },
+		{ "character": "Ronald Weasley" },
+		{ "character": "Professor Albus Dumbledore" },
+		{ "character": "Professor Severus Snape" },
+		{ "character": "George Weasley" },
+		{ "character": "Fred Weasley" },
+		{ "character": "Arthur Weasley" },
+		{ "character": "Draco Malfoy" },
+		{ "character": "Neville Longbottom" },
+		{ "character": "Lord Voldemort" },
+		{ "character": "Hermione Granger" },
+		{ "character": "Professor Minerva McGonagall" },
+		{ "character": "Nicholas Flamel" },
+		{ "character": "Percy Weasley" },
+		{ "character": "Nearly Headless Nick" },
+		{ "character": "Susan Bones" },
+		{ "character": "Hannah Abbott" },
+		{ "character": "Rolanda Hooch" },
+		{ "character": "Angelina Johnson" },
+		{ "character": "Lee Jordan" },
+		{ "character": "Molly Weasley" },
+		{ "character": "William Weasley" },
+		{ "character": "Charlie Weasley" },
+		{ "character": "Quirinus Quirrell" },
+		{ "character": "Gregory Goyle" },
+		{ "character": "Poppy Pomfrey" },
+		{ "character": "Seamus Finnigan" },
+		{ "character": "Professor Filius Flitwick" },
+		{ "character": "Pomona Sprout" },
+		{ "character": "James Potter" },
+		{ "character": "Lily Evans Potter" },
+		{ "character": "Petunia Evans Dursley" },
+		{ "character": "Vernon Dursley" },
+		{ "character": "Lavender Brown" },
+		{ "character": "Oliver Wood" },
+		{ "character": "Rubeus Hagrid" },
+		{ "character": "Dudley Dursley" },
+		{ "character": "Peeves" },
+		{ "character": "Dean Thomas" },
+		{ "character": "Griphook" },
+		{ "character": "Garrick Ollivander" },
+		{ "character": "Alicia Spinnet" },
+		{ "character": "Katie Bell" },
+		{ "character": "Piers Polkiss" },
+		{ "character": "Argus Filch" },
+		{ "character": "Irma Pince" },
+		{ "character": "Firenze" },
+		{ "character": "Pansy Parkinson" },
+		{ "character": "Vincent Crabbe" },
+		{ "character": "Fat Friar" },
+		{ "character": "The Bloody Baron" },
+		{ "character": "Mrs. Norris" },
+		{ "character": "Justin Finch-Fletchley" },
+		{ "character": "Blaise Zabini" },
+		{ "character": "Marcus Flint" },
+		{ "character": "Terence Higgs" },
+		{ "character": "Sorting Hat" },
+		{ "character": "Trevor" },
+		{ "character": "Newt Scamander" },
+		{ "character": "Phyllida Spore" },
+		{ "character": "Fang" },
+		{ "character": "Bane" },
+		{ "character": "Marge Dursley" },
+		{ "character": "Arsenius Jigger" },
+		{ "character": "Dedalus Diggle" },
+		{ "character": "Gordon" },
+		{ "character": "Doris Crockford" },
+		{ "character": "Tufty" },
+		{ "character": "Gellert Grindelwald" },
+		{ "character": "Cornelius Fudge" },
+		{ "character": "Padma Patil" },
+		{ "character": "Fluffy" },
+		{ "character": "Adalbert Waffling" },
+		{ "character": "Dennis" },
+		{ "character": "Snowy" },
+		{ "character": "Ginny Weasley" },
+		{ "character": "Miranda Goshawk" },
+		{ "character": "Professor Binns" },
+		{ "character": "Augusta Longbottom" },
+		{ "character": "Algie Longbottom" },
+		{ "character": "Emeric Switch" },
+		{ "character": "Madam Malkin" },
+		{ "character": "Malcolm" },
+		{ "character": "Perenelle Flamel" },
+		{ "character": "Parvati Patil" },
+		{ "character": "Norbert" },
+		{ "character": "Arabella Figg" },
+		{ "character": "Millicent Bulstrode" },
+		{ "character": "Tom" },
+		{ "character": "Ronan" },
+		{ "character": "Quentin Trimble" },
+		{ "character": "Tibbles" },
+		{ "character": "Sirius Black" },
+		{ "character": "Helena Ravenclaw" },
+		{ "character": "Fat Lady in Painting" },
+		{ "character": "Hedwig" }
+	],
+	"authors": [
+		{ "author": "J. K. Rowling" }
+	]
+}
+{
+	"mid": "m.07c4l",
+	"title": "The Silmarillion",
+	"alts": [
+		{ "lang": "th", "alt": "ซิลมาริลลิออน" },
+		{ "lang": "sv", "alt": "The Silmarillion" },
+		{ "lang": "zh-CN", "alt": "精靈寶鑽" }
+	],
+	"characters": [
+		{ "character": "Frodo Baggins" },
+		{ "character": "Saruman" },
+		{ "character": "Gandalf" },
+		{ "character": "Sauron" },
+		{ "character": "Bilbo Baggins" },
+		{ "character": "Morgoth" },
+		{ "character": "Galadriel" },
+		{ "character": "Glorfindel" },
+		{ "character": "Melian" },
+		{ "character": "Thingol" },
+		{ "character": "Orodreth" },
+		{ "character": "Círdan" },
+		{ "character": "Túrin Turambar" },
+		{ "character": "Beleg" },
+		{ "character": "Húrin" },
+		{ "character": "Finduilas" },
+		{ "character": "Niënor Níniel" },
+		{ "character": "Mîm" },
+		{ "character": "Lalaith" },
+		{ "character": "Morwen" },
+		{ "character": "Aerin" },
+		{ "character": "Brandir" },
+		{ "character": "Dorlas" },
+		{ "character": "Radagast" },
+		{ "character": "Manwë" },
+		{ "character": "Elendil" },
+		{ "character": "Anárion" },
+		{ "character": "Maglor" },
+		{ "character": "Elrond" },
+		{ "character": "Eru Ilúvatar" },
+		{ "character": "Beren" },
+		{ "character": "Eärendil" },
+		{ "character": "Lúthien" },
+		{ "character": "Glaurung" }
+	],
+	"authors": [
+		{ "author": "J. R. R. Tolkien" }
+	]
+}
+{
+	"mid": "m.07cvr",
+	"title": "The Shining",
+	"alts": [
+		{ "lang": "en", "alt": "Shining. Roman" },
+		{ "lang": "ca", "alt": "The Shining" },
+		{ "lang": "cs", "alt": "Osvícení (kniha)" },
+		{ "lang": "zh-TW", "alt": "闪灵" }
+	],
+	"characters": [
+		{ "character": "Jack Torrance" },
+		{ "character": "Danny Torrance" },
+		{ "character": "Wendy Torrance" },
+		{ "character": "Dick Hallorann" },
+		{ "character": "Stuart Ullman" },
+		{ "character": "Horace Derwent" },
+		{ "character": "Tony" }
+	],
+	"authors": [
+		{ "author": "Stephen King" }
+	]
+}
+{
+	"mid": "m.0351my",
+	"title": "A Clash of Kings",
+	"alts": [
+		{ "lang": "de", "alt": "Königsfehde" },
+		{ "lang": "pt", "alt": "A Fúria dos Reis" },
+		{ "lang": "it", "alt": "A Clash of Kings" },
+		{ "lang": "ro", "alt": "A Clash of Kings" },
+		{ "lang": "zh-TW", "alt": "列王的纷争" }
+	],
+	"characters": [
+		{ "character": "Tyrion Lannister" },
+		{ "character": "Jon Snow" },
+		{ "character": "Cersei Lannister" },
+		{ "character": "Jaime Lannister" },
+		{ "character": "Joffrey Baratheon" },
+		{ "character": "Robb Stark" },
+		{ "character": "Arya Stark" },
+		{ "character": "Daenerys Targaryen" },
+		{ "character": "Theon Greyjoy" },
+		{ "character": "Catelyn Stark" },
+		{ "character": "Renly Baratheon" },
+		{ "character": "Bran Stark" },
+		{ "character": "Sansa Stark" },
+		{ "character": "Gregor Clegane" },
+		{ "character": "Tywin Lannister" },
+		{ "character": "Lollys Stokeworth" }
+	],
+	"authors": [
+		{ "author": "George R. R. Martin" }
+	]
+}
+{
+	"mid": "m.0dw9b",
+	"title": "The Hunchback of Notre-Dame",
+	"alts": [
+		{ "lang": "en", "alt": "Notre-Dame de Paris" },
+		{ "lang": "en", "alt": "Our Lady of Paris" },
+		{ "lang": "en", "alt": "Notre Dame de Paris" },
+		{ "lang": "en", "alt": "Notre-Dame" },
+		{ "lang": "en", "alt": "Hunchbak of Notre Dame" },
+		{ "lang": "en", "alt": "Le Bossu De Notre-Dame" },
+		{ "lang": "en", "alt": "Le bossu de Notre Dame" },
+		{ "lang": "nl", "alt": "De Klokkenluider van de Notre Dame" },
+		{ "lang": "zh-CN", "alt": "巴黎聖母院 (小說)" },
+		{ "lang": "sk", "alt": "Chrám Matky Božej v Paríži (román)" },
+		{ "lang": "ko", "alt": "노트르담의 꼽추" },
+		{ "lang": "lt", "alt": "Paryžiaus katedra (knyga)" },
+		{ "lang": "en", "alt": "The Hunchback of Notre Dame" }
+	],
+	"characters": [
+		{ "character": "Esméralda" },
+		{ "character": "Quasimodo" },
+		{ "character": "Claude Frollo" },
+		{ "character": "Jehan Frollo" },
+		{ "character": "Captain Phoebus" },
+		{ "character": "Fleur-de-Lys" },
+		{ "character": "Pierre Gringoire" },
+		{ "character": "Gudule" },
+		{ "character": "Louis XI of France" },
+		{ "character": "Tristan l'Hermite" },
+		{ "character": "Henriet Cousin" },
+		{ "character": "Florian Barbedienne" },
+		{ "character": "Jacques Charmolue" },
+		{ "character": "Clopin Trouillefou" },
+		{ "character": "Pierrat Torterue" },
+		{ "character": "Aloyse de Gondelaurier" }
+	],
+	"authors": [
+		{ "author": "Victor Hugo" }
+	]
+}
+{
+	"mid": "m.02zlm",
+	"title": "Frankenstein",
+	"alts": [
+		{ "lang": "en", "alt": "Frankenstein; or, the Modern Prometheus" },
+		{ "lang": "en", "alt": "The Essential Frankenstein" },
+		{ "lang": "en", "alt": "Frankestein" },
+		{ "lang": "tr", "alt": "Modern Prometheus" },
+		{ "lang": "en", "alt": "Shelley's Frankenstein" },
+		{ "lang": "sv", "alt": "Frankenstein eller den moderne Prometheus" },
+		{ "lang": "en", "alt": "Frakenstein" },
+		{ "lang": "en", "alt": "The Story of Frankenstein" },
+		{ "lang": "sr", "alt": "Франкенштајн" },
+		{ "lang": "sr", "alt": "Франкенштајн или Модерни Прометеј" },
+		{ "lang": "sr", "alt": "Frankenštajn" },
+		{ "lang": "sr", "alt": "Frankenštajn ili Moderni Prometej" },
+		{ "lang": "lv", "alt": "Frankenšteins" },
+		{ "lang": "lv", "alt": "Frankenšteins jeb modernais Prometejs" },
+		{ "lang": "uk", "alt": "Франкенштайн, або Сучасний Прометей" },
+		{ "lang": "tr", "alt": "Frankenstein (kitap)" },
+		{ "lang": "zh-CN", "alt": "科學怪人" }
+	],
+	"characters": [
+		{ "character": "Victor Frankenstein" },
+		{ "character": "Frankenstein's monster" },
+		{ "character": "Captain Robert Walton" },
+		{ "character": "Dr. Henry Clerval" },
+		{ "character": "Elizabeth Lavenza" }
+	],
+	"authors": [
+		{ "author": "Mary Shelley" },
+		{ "author": "Bernie Wrightson"}
+	]
+}
+{
+	"mid": "m.0jb2_",
+	"title": "The Adventures of Pinocchio",
+	"alts": [
+		{ "lang": "th", "alt": "พินอคคิโอ" },
+		{ "lang": "en", "alt": "Pinocchio" },
+		{ "lang": "en", "alt": "Pinokjo" },
+		{ "lang": "en", "alt": "Le avventure di Pinocchio" },
+		{ "lang": "en", "alt": "As Aventuras De Pinocchio" },
+		{ "lang": "sr", "alt": "Avanture Pinokija" },
+		{ "lang": "id", "alt": "Petualangan Pinokio" },
+		{ "lang": "id", "alt": "Adventures of Pinocchio" },
+		{ "lang": "hu", "alt": "Pinokkió" },
+		{ "lang": "fi", "alt": "Pitkänenän seikkailut" },
+		{ "lang": "fi", "alt": "Pinokkio" },
+		{ "lang": "vi", "alt": "Các cuộc phiêu lưu của Pinocchio" },
+		{ "lang": "vi", "alt": "Cuộc phiêu lưu của Pinocchio" },
+		{ "lang": "tr", "alt": "Pinokyo (kitap)" },
+		{ "lang": "zh-TW", "alt":"木偶奇遇记" }
+	],
+	"characters": [
+		{ "character": "Talking Cricket" },
+		{ "character": "The Coachman" },
+		{ "character": "The Terrible Dogfish" },
+		{ "character": "The Fairy with Turquoise Hair" },
+		{ "character": "Pinocchio" },
+		{ "character": "The Green Fisherman" },
+		{ "character": "The Cat" },
+		{ "character": "The Fox" },
+		{ "character": "Candlewick" }
+	],
+	"authors": [
+		{ "author": "Carlo Collodi" }
+	]
+}
+{
+	"mid": "m.026l0",
+	"title": "Dracula",
+	"alts": [
+		{ "lang": "en", "alt": "Bram Stoker's Dracula Unearthed" },
+		{ "lang": "en", "alt": "Bram Stoker's Dracula (abridged)" },
+		{ "lang": "en", "alt": "The Annotated Dracula" },
+		{ "lang": "en", "alt": "The Illustrated Dracula" },
+		{ "lang": "en", "alt": "The Essential Dracula" },
+		{ "lang": "en", "alt": "Dracula/Cassette" },
+		{ "lang": "en", "alt": "Dracula - Level 4" },
+		{ "lang": "ru", "alt": "Дракула (роман)" },
+		{ "lang": "lv", "alt": "Dracula" },
+		{ "lang": "zh-CN", "alt": "德拉库拉" },
+		{ "lang": "zh-TW", "alt": "德拉库拉" }
+	],
+	"characters": [
+		{ "character": "Count Dracula" },
+		{ "character": "Mina Harker" },
+		{ "character": "Jonathan Harker" },
+		{ "character": "Abraham Van Helsing" },
+		{ "character": "John Seward" },
+		{ "character": "Renfield" },
+		{ "character": "Lucy Westenra" },
+		{ "character": "Arthur Holmwood" },
+		{ "character": "Quincey Morris" }
+	],
+	"authors": [
+		{ "author": "Bram Stoker" }
+	]
+}

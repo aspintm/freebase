@@ -8,6 +8,321 @@
 <http://rdf.freebase.com/ns/m.0j49lwq>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
 <http://rdf.freebase.com/ns/m.0jx8jz8>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
 <http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.name>	"Fifty Shades of Grey"@en
+<http://rdf.freebase.com/ns/m.0j49kcv>	<http://www.w3.org/2000/01/rdf-schema#label>	"E. L. James"@en
+<http://rdf.freebase.com/ns/m.0j49kcv>	<http://www.w3.org/2000/01/rdf-schema#label>	"E. L. James"@fi
+<http://rdf.freebase.com/ns/m.010121bc>	<http://rdf.freebase.com/ns/common.topic.description>	"Ray Steele is a fictional character from Fifty Shades of Grey."@en
+<http://rdf.freebase.com/ns/m.010121bc>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://rdf.freebase.com/ns/film.film_character.portrayed_in_films>	<http://rdf.freebase.com/ns/m.010121b8>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02nsjl9>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://rdf.freebase.com/ns/type.object.name>	"Ray Steele"@en
+<http://rdf.freebase.com/ns/m.010121bc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.1q3sh6cy9>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ray Steele"@en
+<http://rdf.freebase.com/ns/m.010121bc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.010121bc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.01012139>	<http://rdf.freebase.com/ns/common.topic.description>	"Bob Adams is a fictional character from Fifty Shades of Grey."@en
+<http://rdf.freebase.com/ns/m.01012139>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.01012139>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.01012139>	<http://www.w3.org/2000/01/rdf-schema#label>	"Bob Adams"@en
+<http://rdf.freebase.com/ns/m.01012139>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.01012139>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.01012139>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.01012139>	<http://rdf.freebase.com/ns/type.object.name>	"Bob Adams"@en
+<http://rdf.freebase.com/ns/m.01012139>	<http://rdf.freebase.com/ns/film.film_character.portrayed_in_films>	<http://rdf.freebase.com/ns/m.01012136>
+<http://rdf.freebase.com/ns/m.01012139>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.01012139>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.01012139>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.1q3sj6z5p>
+<http://rdf.freebase.com/ns/m.01012139>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02nsjl9>
+<http://rdf.freebase.com/ns/m.01012139>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.01012139>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.01012139>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.01012139>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.01012139>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.01012139>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.name>	"安娜斯塔西婭·史迪爾"@zh-Hant
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.name>	"Anastasia Steele"@fr
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/2000/01/rdf-schema#label>	"Anastasia Steele"@pt
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.125fqcp1q>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/2000/01/rdf-schema#label>	"אנסטסיה סטיל"@iw
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/common.topic.description>	"Anastasia Steele is a fictional character from the book Fifty Shades of Grey."@en
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/2000/01/rdf-schema#label>	"Anastasia Steele"@fr
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/2000/01/rdf-schema#label>	"Anastasia Steele"@en
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.name>	"Анастейша Стил"@ru
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/2000/01/rdf-schema#label>	"Anastasia Steele"@sv
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/common.topic.alias>	"אנה"@iw
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/2000/01/rdf-schema#label>	"Анастейша Стил"@ru
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character.gender>	<http://rdf.freebase.com/ns/m.02zsn>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.name>	"Anastasia Steele"@pt
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/common.topic.alias>	"אנסטסיה \"אנה\" סטיל"@iw
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.name>	"אנסטסיה סטיל"@iw
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/common.topic.alias>	"Ana"@en
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/2000/01/rdf-schema#label>	"Анастазија Ана Стил"@sr
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/common.topic.alias>	"Anastazija Ana Stil"@sr
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/film.film_character.portrayed_in_films>	<http://rdf.freebase.com/ns/m.0wydjwr>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/common.topic.alias>	"Anastasia \"Ana\" Steele"@en
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j4dfb1>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.name>	"Anastasia Steele"@en
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.name>	"Anastasia Steele"@sv
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.name>	"Anastasia Steele"@nl
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/type.object.name>	"Анастазија Ана Стил"@sr
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02nsjl9>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/2000/01/rdf-schema#label>	"Anastasia Steele"@nl
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/2000/01/rdf-schema#label>	"安娜斯塔西婭·史迪爾"@zh-Hant
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0nfjvsf>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/type.object.name>	"אליוט גריי"@iw
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://www.w3.org/2000/01/rdf-schema#label>	"Elliot Grey"@en
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/type.object.name>	"Elliot Grey"@sv
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02nsjl9>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://www.w3.org/2000/01/rdf-schema#label>	"Elliot Grey"@sv
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://www.w3.org/2000/01/rdf-schema#label>	"Елиот Греј"@sr
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/common.topic.description>	"Elliot Grey is a fictional character from the book Fifty Shades of Grey."@en
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.12h2xcph8>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/film.film_character.portrayed_in_films>	<http://rdf.freebase.com/ns/m.0ykm3q_>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/type.object.name>	"Елиот Греј"@sr
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/common.topic.alias>	"אליוט גריי"@iw
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character.gender>	<http://rdf.freebase.com/ns/m.05zppz>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/type.object.name>	"Elliot Grey"@en
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/common.topic.alias>	"Eliot Grej"@sr
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://www.w3.org/2000/01/rdf-schema#label>	"אליוט גריי"@iw
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0v1jvl5>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.12h2xs4mv>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/common.topic.alias>	"Itan Kavana"@sr
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://www.w3.org/2000/01/rdf-schema#label>	"Итан Кавана"@sr
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ethan Kavanagh"@en
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/common.topic.alias>	"איתאן קוואנאה"@iw
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/type.object.name>	"אית'ן קוואנה"@iw
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character.gender>	<http://rdf.freebase.com/ns/m.05zppz>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/type.object.name>	"Итан Кавана"@sr
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/type.object.name>	"Ethan Kavanagh"@en
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02h7lkt>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/common.topic.description>	"Ethan Kavanagh is a fictional character from the book Fifty Shades of Grey."@en
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://rdf.freebase.com/ns/type.object.name>	"Ethan Kavanagh"@sv
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ethan Kavanagh"@sv
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://www.w3.org/2000/01/rdf-schema#label>	"אית'ן קוואנה"@iw
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0v1jw3q>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02nsjl9>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/type.object.name>	"ג'יסון טיילור"@iw
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/common.topic.description>	"Jason Taylor is a fictional character from the book Fifty Shades of Grey."@en
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.12h2_dc95>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/film.film_character.portrayed_in_films>	<http://rdf.freebase.com/ns/m.0101211y>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/type.object.name>	"Jason Taylor"@en
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/type.object.name>	"Jason Taylor"@sv
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character.gender>	<http://rdf.freebase.com/ns/m.05zppz>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/common.topic.alias>	"Džejson Tejlor"@sr
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/type.object.name>	"Џејсон Тејлор"@sr
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/common.topic.alias>	"ג'יסון טיילור"@iw
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://www.w3.org/2000/01/rdf-schema#label>	"ג'יסון טיילור"@iw
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://www.w3.org/2000/01/rdf-schema#label>	"Џејсон Тејлор"@sr
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jason Taylor"@sv
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jason Taylor"@en
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0v1jt0c>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://www.w3.org/2000/01/rdf-schema#label>	"חוסֶה רודריגז"@iw
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character.gender>	<http://rdf.freebase.com/ns/m.05zppz>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/type.object.name>	"Хосе Родригез"@sr
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/type.object.name>	"Jose Rodriguez"@en
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.1259sv0lt>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/type.object.name>	"Jose Rodriguez"@sv
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/common.topic.description>	"Jose Rodriguez is a fictional character from the book Fifty Shades of Grey."@en
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/type.object.name>	"Jose Rodriguez"@fr
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jose Rodriguez"@pt
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/type.object.name>	"חוסֶה רודריגז"@iw
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/type.object.name>	"Jose Rodriguez"@pt
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/film.film_character.portrayed_in_films>	<http://rdf.freebase.com/ns/m.01012114>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/common.topic.alias>	"חוסֶה רודריגז"@iw
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/common.topic.alias>	"Hose Rodrigez"@sr
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02nsjl9>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jose Rodriguez"@fr
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jose Rodriguez"@sv
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://www.w3.org/2000/01/rdf-schema#label>	"Хосе Родригез"@sr
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jose Rodriguez"@en
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0nfjwz6>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/type.object.name>	"Katherine Kavanagh"@sv
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/type.object.name>	"Katherine Kavanagh"@fr
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://www.w3.org/2000/01/rdf-schema#label>	"Katherine Kavanagh"@pt
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02nsjl9>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/type.object.name>	"Katherine Kavanagh"@pt
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character.gender>	<http://rdf.freebase.com/ns/m.02zsn>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/type.object.name>	"קתרין קאוואנה"@iw
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/type.object.name>	"Katherine Kavanagh"@en
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/common.topic.description>	"Katherine Kavanagh is a fictional character from the book Fifty Shades of Grey."@en
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/type.object.name>	"Кетрин Кавана"@sr
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/common.topic.alias>	"קתרין \"קייט\" קאוואנה"@iw
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/film.film_character.portrayed_in_films>	<http://rdf.freebase.com/ns/m.01011_t5>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/common.topic.alias>	"Ketrin Kavana"@sr
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.1258vxpvb>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://www.w3.org/2000/01/rdf-schema#label>	"קתרין קאוואנה"@iw
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://www.w3.org/2000/01/rdf-schema#label>	"Katherine Kavanagh"@fr
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://www.w3.org/2000/01/rdf-schema#label>	"Katherine Kavanagh"@en
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://www.w3.org/2000/01/rdf-schema#label>	"Кетрин Кавана"@sr
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://www.w3.org/2000/01/rdf-schema#label>	"Katherine Kavanagh"@sv
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.0nfjwvg>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02h7lkt>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/type.object.name>	"Carrick Grey"@sv
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/type.object.name>	"קאריק גריי"@iw
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/common.topic.alias>	"קאריק גריי"@iw
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/common.topic.description>	"Carrick Grey is a fictional character from the book Fifty Shades of Grey."@en
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/common.topic.alias>	"Karik Grej"@sr
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://www.w3.org/2000/01/rdf-schema#label>	"קאריק גריי"@iw
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/type.object.name>	"Carrick Grey"@en
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/type.object.name>	"Карик Греј"@sr
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.12h2w1qx6>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://www.w3.org/2000/01/rdf-schema#label>	"Carrick Grey"@sv
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://www.w3.org/2000/01/rdf-schema#label>	"Carrick Grey"@en
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://www.w3.org/2000/01/rdf-schema#label>	"Карик Греј"@sr
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0v1jv1s>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/2000/01/rdf-schema#label>	"Christian Grey"@pt
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02nsjl9>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.name>	"克裏斯欽·格雷"@zh-Hant
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/common.topic.alias>	"Kristijan Grej"@sr
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.name>	"Кристијан Греј"@sr
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/2000/01/rdf-schema#label>	"Кристијан Греј"@sr
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/2000/01/rdf-schema#label>	"כריסטיאן גריי"@iw
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.125czvn3w>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/film.film_character.portrayed_in_films>	<http://rdf.freebase.com/ns/m.0ydn3r2>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.name>	"Кристиан Грей"@ru
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.name>	"Christian Grey"@sv
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j4dfb1>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/common.topic.description>	"Christian Grey is a fictional character from the book Fifty Shades of Grey."@en
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character.gender>	<http://rdf.freebase.com/ns/m.05zppz>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.name>	"כריסטיאן גריי"@iw
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.name>	"Christian Grey"@fr
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.name>	"Christian Grey"@en
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/common.topic.alias>	"כריסטיאן גריי"@iw
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.name>	"Christian Grey"@pt
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/2000/01/rdf-schema#label>	"Christian Grey"@fr
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.name>	"Christian Grey"@nl
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/2000/01/rdf-schema#label>	"Christian Grey"@nl
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/2000/01/rdf-schema#label>	"Christian Grey"@en
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/2000/01/rdf-schema#label>	"Кристиан Грей"@ru
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/2000/01/rdf-schema#label>	"Christian Grey"@sv
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/2000/01/rdf-schema#label>	"克裏斯欽·格雷"@zh-Hant
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0nfjvrm>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/film.film_character>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/type.object.name>	"Карла Адамс"@sr
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/common.topic.alias>	"קארלה אדאמס"@iw
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://www.w3.org/2000/01/rdf-schema#label>	"Carla Adams"@en
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/type.object.name>	"Jason Taylor"@sv
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/type.object.name>	"קארלה אדאמס"@iw
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/common.topic.alias>	"Karla Adams"@sr
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/book.book_character.appears_in_book>	<http://rdf.freebase.com/ns/m.0j64xyy>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://www.w3.org/2000/01/rdf-schema#label>	"Карла Адамс"@sr
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/common.topic.description>	"Carla Adams is a fictional character from the book Fifty Shades of Grey."@en
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.12h35f10c>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character.gender>	<http://rdf.freebase.com/ns/m.02zsn>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02h7lkt>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/type.object.name>	"Carla Adams"@en
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://www.w3.org/2000/01/rdf-schema#label>	"קארלה אדאמס"@iw
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jason Taylor"@sv
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/book.book_character>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/fictional_universe.fictional_character>
+<http://rdf.freebase.com/ns/m.0v1jtq3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>
 <http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/Mine_G%FCng%F6r>
 <http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.1q6f_55bl>
 <http://rdf.freebase.com/ns/m.0100kt2c>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Mine_Gungor"
