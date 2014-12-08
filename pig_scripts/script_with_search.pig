@@ -1,10 +1,12 @@
 -- nacitame nase N triplets
-rows = LOAD '/freebase.gz' USING PigStorage('\t') AS (subject, predicate, object);
--- rows = LOAD 'freebase_sample_book.txt' USING PigStorage('\t') AS (subject, predicate, object);
+
+-- pomocou parametrov a pridat popis ku tym parametrom, pricom ten moj search dat do samostatneho skriptu
+-- ono to ma vyplut jeden velky vystup so vsetkymi knihami, plus este mozem tam dat rok, pripadne vydavatelstvo a nad nimi statistiky robit
+rows = LOAD 'freebase.gz' USING PigStorage('\t') AS (subject, predicate, object);
 
 -- vyfiltrujeme si iba relevantne data
 raw_books = FILTER rows BY (predicate == '<http://rdf.freebase.com/ns/type.object.type>') AND (object == '<http://rdf.freebase.com/ns/book.written_work>');
-raw_names = FILTER rows BY (predicate == '<http://rdf.freebase.com/ns/type.object.name>') AND (object matches '.*@en');
+raw_names = FILTER rows BY (predicate == '<http://rdf.freebase.com/ns/type.object.name>');
 raw_labels = FILTER rows BY (predicate == '<http://www.w3.org/2000/01/rdf-schema#label>') AND (object matches '.*@en');
 raw_alts = FILTER rows BY (predicate == '<http://rdf.freebase.com/ns/common.topic.alias>');
 raw_characters = FILTER rows BY (predicate == '<http://rdf.freebase.com/ns/book.book.characters>');
@@ -32,38 +34,42 @@ characters_joined = JOIN
 characters_grouped = GROUP characters_joined BY raw_characters::subject;
 
 -- nakolko pig zatial nepodporuje LEFT OUTER JOIN viac ako 2 datasetov, potrebujeme si vytvorit docasne datasety, pre tento ucel
-joined_names = JOIN
-	raw_books BY subject LEFT OUTER,
-	raw_names BY subject;
-joined_labels = JOIN
-	joined_names BY raw_books::subject LEFT OUTER,
+joined_by_mid = JOIN
+	raw_books BY subject,
+	raw_names BY subject,
 	raw_labels BY subject;
-joined_alts = JOIN
-	joined_labels BY raw_books::subject LEFT OUTER,
+joined_by_mid_alts = JOIN
+	joined_by_mid BY raw_books::subject LEFT OUTER,
 	alts_grouped BY group;
-joined_characters = JOIN
-	joined_alts BY raw_books::subject LEFT OUTER,
+joined_by_mid_alts_characters = JOIN
+	joined_by_mid_alts BY raw_books::subject LEFT OUTER,
 	characters_grouped BY group;
-joined_authors = JOIN
-	joined_characters BY raw_books::subject LEFT OUTER,
+joined_by_mid_alts_characters_authors = JOIN
+	joined_by_mid_alts_characters BY raw_books::subject LEFT OUTER,
 	authors_grouped BY group;
 
--- {raw_books:0-s,1-p,2-o}, {raw_names:3-s,4-p,5-o}, {raw_labels:6-s,7-p,8-o}, {alts_grouped:9-group,10-raw_alts}, {characters_grouped:11-group,12-raw_characters}, {authors_grouped:13-group,14-raw_authors}
-joined = DISTINCT joined_authors;
+-- nacitame si zoznam hladanych mien v anglickom jazyku
+names = LOAD 'freebase_names_of_books.txt' USING PigStorage() AS (name);
+names = FOREACH names GENERATE CONCAT(name, '@en') AS name;
+
+-- dataset joined bude obsahovat vsetky potrebne data v nestrukturovanej podobe
+-- {{names:0-name}, {raw_books:1-s,2-p,3-o}, {raw_names:4-s,5-p,6-o}, {raw_titles:7-s,8-p,9-o}, {alts_grouped:10-group,11-raw_alts}, {characters_grouped:12-group,13-raw_characters}, {authors_grouped:14-group,15-raw_authors}}
+joined = JOIN names BY name LEFT OUTER, joined_by_mid_alts_characters_authors BY raw_names::object;
+joined = DISTINCT joined;
 
 -- dataset result bude obsahovat strukturvany vystup
 result = FOREACH joined {
 	-- alternativne nazvy budu mat takuto strukturu "alts": [ {"lang": "en", "alt": "xxx"} ]
-	alts = FOREACH $10 GENERATE
+	alts = FOREACH $11 GENERATE
 		REGEX_EXTRACT(object, '"[^@]*"@(.*)', 1) AS lang,
 		REGEX_EXTRACT(object, '"([^@]*)"@.*', 1) AS alt;
 	-- postavy a autori budu mat takuto strukturu "characters": [ {"character": "xxx"} ]
-	characters = FOREACH $12 GENERATE FLATTEN(REGEX_EXTRACT(raw_labels::object, '"([^@]*)"@.*', 1)) AS character;
-	authors = FOREACH $14 GENERATE FLATTEN(REGEX_EXTRACT(raw_labels::object, '"([^@]*)"@.*', 1)) AS author;
+	characters = FOREACH $13 GENERATE FLATTEN(REGEX_EXTRACT(raw_labels::object, '"([^@]*)"@.*', 1)) AS character;
+	authors = FOREACH $15 GENERATE FLATTEN(REGEX_EXTRACT(raw_labels::object, '"([^@]*)"@.*', 1)) AS author;
 	GENERATE
-		-- REGEX_EXTRACT($3, '"([^@]*)"@.*', 1) AS name,
-		REGEX_EXTRACT($0, '^.*/(.*)>', 1) AS mid,
-		REGEX_EXTRACT($8, '"([^@]*)"@.*', 1) AS title,
+		-- REGEX_EXTRACT($0, '"([^@]*)"@.*', 1) AS name,
+		REGEX_EXTRACT($1, '^.*/(.*)>', 1) AS mid,
+		REGEX_EXTRACT($9, '"([^@]*)"@.*', 1) AS title,
 		alts AS alts,
 		-- BagToString(characters, ',') AS characters,		BagToString by nam spravil vysledok v tvare "characters": "aaa, bbb"
 		-- BagToString(authors, ',') AS authors;
@@ -72,4 +78,4 @@ result = FOREACH joined {
 };
 
 -- ulozime si vysledok formatovany ako JSON
-STORE result INTO '/freebase_books_output' USING JsonStorage();
+STORE result INTO 'freebase_books_output' USING JsonStorage();
